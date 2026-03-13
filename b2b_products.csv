@@ -1,0 +1,481 @@
+product_id,name,category,subcategory,price_inr,supplier_name,supplier_city,supplier_state,supplier_country,verified_supplier,supplier_rating,supplier_reviews,min_order_qty,years_in_business,keywords,scraped_at,data_source
+PROD-0001,Standard CNC Machine,Industrial Machinery,CNC Machine,203450.0,Prabhakar and Sons,Nagpur,Maharashtra,India,True,3.2,59,303,14,ISO certified|RoHS compliant,2026-03-13T15:52:11.422138,synthetic
+PROD-0002,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,198880.0,Purohit-Tripathi,Delhi,Delhi,India,False,4.4,14,143,1,RoHS compliant|heavy duty,2026-03-13T15:52:11.422207,synthetic
+PROD-0003,Heavy Duty Lathe Machine,Industrial Machinery,Lathe Machine,385677.0,"Shenoy, Sahota and Magar",Rajkot,Gujarat,India,True,3.8,12,136,2,food grade|eco friendly,2026-03-13T15:52:11.422259,synthetic
+PROD-0004,Heavy Duty CNC Machine,Industrial Machinery,CNC Machine,1421432.0,Chokshi-Gupta,Coimbatore,Tamil Nadu,India,False,4.2,116,361,3,ISO certified|GMP certified,2026-03-13T15:52:11.422687,synthetic
+PROD-0005,Export Grade Compressor,Industrial Machinery,Compressor,1125537.0,Rai-Grewal,Ahmedabad,Gujarat,India,False,3.7,14,137,23,GMP certified|RoHS compliant,2026-03-13T15:52:11.422765,synthetic
+PROD-0006,Standard Welding Equipment,Industrial Machinery,Welding Equipment,744158.0,Bhattacharyya-Wable,Delhi,Delhi,India,True,3.8,29,432,25,RoHS compliant|ISO certified,2026-03-13T15:52:11.422819,synthetic
+PROD-0007,Premium CNC Machine,Industrial Machinery,CNC Machine,1005981.0,Solanki LLC,Ahmedabad,Gujarat,India,True,4.9,62,336,16,BIS approved|GMP certified,2026-03-13T15:52:11.422877,synthetic
+PROD-0008,Heavy Duty Hydraulic Press,Industrial Machinery,Hydraulic Press,325802.0,"Chaudhari, Anand and Doctor",Lucknow,Uttar Pradesh,India,False,3.9,26,71,17,eco friendly|export quality,2026-03-13T15:52:11.422932,synthetic
+PROD-0009,Standard CNC Machine,Industrial Machinery,CNC Machine,897493.0,Yadav and Sons,Ludhiana,Punjab,India,False,3.8,4,240,17,organic|high grade,2026-03-13T15:52:11.422981,synthetic
+PROD-0010,Heavy Duty CNC Machine,Industrial Machinery,CNC Machine,661191.0,Yohannan-Dhaliwal,Indore,Madhya Pradesh,India,False,3.7,12,2,24,food grade|organic,2026-03-13T15:52:11.423026,synthetic
+PROD-0011,Heavy Duty Hydraulic Press,Industrial Machinery,Hydraulic Press,505934.0,Kalita-Rajagopal,Coimbatore,Tamil Nadu,India,False,4.0,7,83,18,RoHS compliant|high grade,2026-03-13T15:52:11.423092,synthetic
+PROD-0012,Premium CNC Machine,Industrial Machinery,CNC Machine,652065.0,Seshadri PLC,Nashik,Maharashtra,India,False,4.8,53,30,8,custom size|export quality,2026-03-13T15:52:11.423141,synthetic
+PROD-0013,Export Grade Lathe Machine,Industrial Machinery,Lathe Machine,526342.0,Varma Ltd,Delhi,Delhi,India,False,3.3,23,494,7,high grade|food grade,2026-03-13T15:52:11.423187,synthetic
+PROD-0014,Heavy Duty Hydraulic Press,Industrial Machinery,Hydraulic Press,813125.0,"Kar, Rastogi and Sanghvi",Rajkot,Gujarat,India,True,4.0,7,174,1,custom size|high grade,2026-03-13T15:52:11.423241,synthetic
+PROD-0015,Premium Welding Equipment,Industrial Machinery,Welding Equipment,330724.0,"Devi, Sha and Sodhi",Ahmedabad,Gujarat,India,True,4.8,3,110,18,heavy duty|food grade,2026-03-13T15:52:11.423291,synthetic
+PROD-0016,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,574085.0,"Rout, Nagarajan and Shetty",Nashik,Maharashtra,India,False,3.4,4,217,14,eco friendly|food grade,2026-03-13T15:52:11.423340,synthetic
+PROD-0017,Standard CNC Machine,Industrial Machinery,CNC Machine,794534.0,Karan-Wali,Mumbai,Maharashtra,India,True,3.9,16,128,3,eco friendly|high grade,2026-03-13T15:52:11.423384,synthetic
+PROD-0018,Premium CNC Machine,Industrial Machinery,CNC Machine,787700.0,"Kota, Sankaran and Mohanty",Delhi,Delhi,India,False,4.9,47,249,16,premium|BIS approved,2026-03-13T15:52:11.423434,synthetic
+PROD-0019,Export Grade CNC Machine,Industrial Machinery,CNC Machine,64587.0,Patel Inc,Nashik,Maharashtra,India,True,4.4,179,339,23,eco friendly|heavy duty,2026-03-13T15:52:11.423480,synthetic
+PROD-0020,Heavy Duty Compressor,Industrial Machinery,Compressor,705665.0,"Hora, Saha and Borra",Ahmedabad,Gujarat,India,True,4.2,20,81,2,high grade|export quality,2026-03-13T15:52:11.423530,synthetic
+PROD-0021,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,1149938.0,Issac Inc,Indore,Madhya Pradesh,India,True,3.1,24,134,7,GMP certified|food grade,2026-03-13T15:52:11.423578,synthetic
+PROD-0022,Heavy Duty Hydraulic Press,Industrial Machinery,Hydraulic Press,345327.0,Baria-Kumar,Pune,Maharashtra,India,True,4.9,35,52,3,high grade|premium,2026-03-13T15:52:11.423625,synthetic
+PROD-0023,Premium Compressor,Industrial Machinery,Compressor,230385.0,Mahal-Mallick,Coimbatore,Tamil Nadu,India,False,3.7,59,414,21,high grade|ISO certified,2026-03-13T15:52:11.423673,synthetic
+PROD-0024,Standard Welding Equipment,Industrial Machinery,Welding Equipment,220664.0,Swaminathan Inc,Nagpur,Maharashtra,India,True,4.8,36,145,20,premium|food grade,2026-03-13T15:52:11.423721,synthetic
+PROD-0025,Export Grade Hydraulic Press,Industrial Machinery,Hydraulic Press,2875789.0,"Mukherjee, Ganesan and Tata",Pune,Maharashtra,India,True,4.8,13,135,6,food grade|eco friendly,2026-03-13T15:52:11.423778,synthetic
+PROD-0026,Standard Lathe Machine,Industrial Machinery,Lathe Machine,549345.0,"Kunda, Lala and Aurora",Coimbatore,Tamil Nadu,India,True,4.7,24,66,2,organic|CE certified,2026-03-13T15:52:11.423828,synthetic
+PROD-0027,Standard CNC Machine,Industrial Machinery,CNC Machine,999949.0,"Nair, Sachdeva and Bhatt",Nashik,Maharashtra,India,False,3.7,53,499,20,food grade|heavy duty,2026-03-13T15:52:11.423892,synthetic
+PROD-0028,Premium Hydraulic Press,Industrial Machinery,Hydraulic Press,894514.0,Sehgal-Sampath,Nashik,Maharashtra,India,True,3.1,18,471,15,CE certified|organic,2026-03-13T15:52:11.423936,synthetic
+PROD-0029,Export Grade Hydraulic Press,Industrial Machinery,Hydraulic Press,163379.0,"Sule, Arya and Ram",Indore,Madhya Pradesh,India,True,4.7,76,329,17,BIS approved|GMP certified,2026-03-13T15:52:11.423988,synthetic
+PROD-0030,Heavy Duty Welding Equipment,Industrial Machinery,Welding Equipment,393979.0,Hans-Loyal,Indore,Madhya Pradesh,India,True,4.9,11,223,12,food grade|CE certified,2026-03-13T15:52:11.424034,synthetic
+PROD-0031,Premium Welding Equipment,Industrial Machinery,Welding Equipment,983949.0,"Biswas, Wable and Dhar",Jaipur,Rajasthan,India,False,3.0,134,369,24,food grade|GMP certified,2026-03-13T15:52:11.424104,synthetic
+PROD-0032,Heavy Duty Compressor,Industrial Machinery,Compressor,79071.0,Balakrishnan Group,Ahmedabad,Gujarat,India,False,4.3,20,168,13,food grade|organic,2026-03-13T15:52:11.424147,synthetic
+PROD-0033,Export Grade Hydraulic Press,Industrial Machinery,Hydraulic Press,141516.0,Memon-Chauhan,Coimbatore,Tamil Nadu,India,False,4.8,28,281,1,organic|RoHS compliant,2026-03-13T15:52:11.424188,synthetic
+PROD-0034,Heavy Duty Lathe Machine,Industrial Machinery,Lathe Machine,1355150.0,"Rao, Shroff and Ratta",Ahmedabad,Gujarat,India,True,3.9,6,462,24,heavy duty|GMP certified,2026-03-13T15:52:11.424234,synthetic
+PROD-0035,Heavy Duty Compressor,Industrial Machinery,Compressor,529738.0,"Tripathi, Lall and Saraf",Delhi,Delhi,India,True,4.9,9,413,7,heavy duty|ISO certified,2026-03-13T15:52:11.424283,synthetic
+PROD-0036,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,983617.0,Mitra-Sehgal,Mumbai,Maharashtra,India,False,3.8,15,353,1,RoHS compliant|export quality,2026-03-13T15:52:11.424325,synthetic
+PROD-0037,Export Grade Lathe Machine,Industrial Machinery,Lathe Machine,69741.0,Keer LLC,Ludhiana,Punjab,India,True,3.5,75,411,15,GMP certified|high grade,2026-03-13T15:52:11.424364,synthetic
+PROD-0038,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,179489.0,Pal Inc,Coimbatore,Tamil Nadu,India,True,4.4,21,281,15,heavy duty|food grade,2026-03-13T15:52:11.424404,synthetic
+PROD-0039,Heavy Duty Lathe Machine,Industrial Machinery,Lathe Machine,379382.0,"Sachdev, Krishnamurthy and Sathe",Indore,Madhya Pradesh,India,False,4.0,28,40,23,organic|premium,2026-03-13T15:52:11.424451,synthetic
+PROD-0040,Standard Compressor,Industrial Machinery,Compressor,291934.0,"De, Hayer and Nayar",Surat,Gujarat,India,True,3.8,8,213,14,CE certified|high grade,2026-03-13T15:52:11.424493,synthetic
+PROD-0041,Premium Lathe Machine,Industrial Machinery,Lathe Machine,258707.0,Dugar Inc,Lucknow,Uttar Pradesh,India,False,4.5,5,437,14,high grade|food grade,2026-03-13T15:52:11.424536,synthetic
+PROD-0042,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,489013.0,Raju-Golla,Rajkot,Gujarat,India,True,3.7,37,85,15,heavy duty|custom size,2026-03-13T15:52:11.424576,synthetic
+PROD-0043,Premium CNC Machine,Industrial Machinery,CNC Machine,1964646.0,Gaba-Sandal,Coimbatore,Tamil Nadu,India,True,3.9,50,134,13,CE certified|premium,2026-03-13T15:52:11.424614,synthetic
+PROD-0044,Heavy Duty Compressor,Industrial Machinery,Compressor,78389.0,More and Sons,Lucknow,Uttar Pradesh,India,False,4.7,11,10,24,high grade|ISO certified,2026-03-13T15:52:11.424651,synthetic
+PROD-0045,Premium Hydraulic Press,Industrial Machinery,Hydraulic Press,1282451.0,Bava-Jhaveri,Pune,Maharashtra,India,False,4.9,8,343,4,custom size|premium,2026-03-13T15:52:11.424686,synthetic
+PROD-0046,Premium Compressor,Industrial Machinery,Compressor,776469.0,"Vaidya, Sundaram and Garg",Lucknow,Uttar Pradesh,India,False,3.3,7,476,10,custom size|GMP certified,2026-03-13T15:52:11.424731,synthetic
+PROD-0047,Premium Lathe Machine,Industrial Machinery,Lathe Machine,303967.0,Bora Inc,Nashik,Maharashtra,India,True,4.7,3,155,22,custom size|export quality,2026-03-13T15:52:11.424867,synthetic
+PROD-0048,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,905795.0,Pathak and Sons,Ludhiana,Punjab,India,False,3.1,14,222,12,GMP certified|eco friendly,2026-03-13T15:52:11.424936,synthetic
+PROD-0049,Heavy Duty Hydraulic Press,Industrial Machinery,Hydraulic Press,358530.0,Rout Inc,Rajkot,Gujarat,India,True,4.8,57,423,24,custom size|organic,2026-03-13T15:52:11.424979,synthetic
+PROD-0050,Export Grade Hydraulic Press,Industrial Machinery,Hydraulic Press,999531.0,"Loke, Sarna and Naik",Pune,Maharashtra,India,True,4.3,10,167,6,eco friendly|premium,2026-03-13T15:52:11.425026,synthetic
+PROD-0051,Heavy Duty Compressor,Industrial Machinery,Compressor,80134.0,Jain LLC,Pune,Maharashtra,India,True,4.0,8,209,16,high grade|premium,2026-03-13T15:52:11.425084,synthetic
+PROD-0052,Premium Lathe Machine,Industrial Machinery,Lathe Machine,740903.0,Hans-Sengupta,Rajkot,Gujarat,India,True,3.4,35,298,12,eco friendly|high grade,2026-03-13T15:52:11.425126,synthetic
+PROD-0053,Heavy Duty Compressor,Industrial Machinery,Compressor,334350.0,Barad Ltd,Coimbatore,Tamil Nadu,India,True,3.9,11,370,7,CE certified|export quality,2026-03-13T15:52:11.425168,synthetic
+PROD-0054,Heavy Duty Welding Equipment,Industrial Machinery,Welding Equipment,98996.0,Sama-Venkatesh,Rajkot,Gujarat,India,False,5.0,21,52,7,organic|premium,2026-03-13T15:52:11.425253,synthetic
+PROD-0055,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,197392.0,Rout Group,Pune,Maharashtra,India,True,4.9,28,65,21,RoHS compliant|eco friendly,2026-03-13T15:52:11.425327,synthetic
+PROD-0056,Export Grade CNC Machine,Industrial Machinery,CNC Machine,605575.0,"Atwal, Oak and Golla",Delhi,Delhi,India,True,4.9,19,352,2,heavy duty|RoHS compliant,2026-03-13T15:52:11.425391,synthetic
+PROD-0057,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,228744.0,Parikh-Dora,Ludhiana,Punjab,India,True,4.6,6,231,15,organic|custom size,2026-03-13T15:52:11.425432,synthetic
+PROD-0058,Premium Compressor,Industrial Machinery,Compressor,552710.0,Bhardwaj and Sons,Jaipur,Rajasthan,India,False,3.4,3,81,8,heavy duty|high grade,2026-03-13T15:52:11.425475,synthetic
+PROD-0059,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,599602.0,"Nayar, Reddy and Morar",Delhi,Delhi,India,True,3.6,9,406,21,custom size|GMP certified,2026-03-13T15:52:11.425520,synthetic
+PROD-0060,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,399024.0,"Tella, Mane and Memon",Ludhiana,Punjab,India,False,4.7,4,292,10,eco friendly|export quality,2026-03-13T15:52:11.425565,synthetic
+PROD-0061,Premium Compressor,Industrial Machinery,Compressor,500640.0,Oak LLC,Lucknow,Uttar Pradesh,India,True,4.8,67,14,3,premium|GMP certified,2026-03-13T15:52:11.425603,synthetic
+PROD-0062,Heavy Duty Welding Equipment,Industrial Machinery,Welding Equipment,564935.0,"Narain, Bhardwaj and Choudhry",Indore,Madhya Pradesh,India,True,4.5,5,227,9,heavy duty|custom size,2026-03-13T15:52:11.425647,synthetic
+PROD-0063,Export Grade Lathe Machine,Industrial Machinery,Lathe Machine,1684525.0,Buch-Cherian,Jaipur,Rajasthan,India,True,4.3,60,356,16,organic|GMP certified,2026-03-13T15:52:11.425684,synthetic
+PROD-0064,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,340440.0,Konda PLC,Jaipur,Rajasthan,India,False,4.6,18,266,12,custom size|eco friendly,2026-03-13T15:52:11.425723,synthetic
+PROD-0065,Standard Lathe Machine,Industrial Machinery,Lathe Machine,782600.0,Jayaraman Group,Nagpur,Maharashtra,India,False,3.9,31,499,21,custom size|premium,2026-03-13T15:52:11.425763,synthetic
+PROD-0066,Premium Hydraulic Press,Industrial Machinery,Hydraulic Press,424849.0,"Rout, Srinivasan and Reddy",Rajkot,Gujarat,India,True,3.2,78,367,10,high grade|food grade,2026-03-13T15:52:11.425810,synthetic
+PROD-0067,Export Grade Lathe Machine,Industrial Machinery,Lathe Machine,228338.0,Parmer-Chawla,Surat,Gujarat,India,True,4.2,36,36,9,RoHS compliant|BIS approved,2026-03-13T15:52:11.425858,synthetic
+PROD-0068,Export Grade Welding Equipment,Industrial Machinery,Welding Equipment,3372732.0,"Banik, Ahuja and Edwin",Pune,Maharashtra,India,False,3.9,19,391,18,BIS approved|eco friendly,2026-03-13T15:52:11.425904,synthetic
+PROD-0069,Export Grade Compressor,Industrial Machinery,Compressor,279681.0,Karan PLC,Nashik,Maharashtra,India,True,4.5,188,198,22,RoHS compliant|GMP certified,2026-03-13T15:52:11.425943,synthetic
+PROD-0070,Premium Lathe Machine,Industrial Machinery,Lathe Machine,1300730.0,Bains-Bhatt,Bangalore,Karnataka,India,False,3.9,22,370,5,BIS approved|GMP certified,2026-03-13T15:52:11.425986,synthetic
+PROD-0071,Heavy Duty CNC Machine,Industrial Machinery,CNC Machine,128377.0,Wadhwa Inc,Bangalore,Karnataka,India,False,3.8,5,346,18,BIS approved|CE certified,2026-03-13T15:52:11.426028,synthetic
+PROD-0072,Premium Lathe Machine,Industrial Machinery,Lathe Machine,909532.0,Palan-Warrior,Nagpur,Maharashtra,India,False,4.4,7,154,1,ISO certified|CE certified,2026-03-13T15:52:11.426087,synthetic
+PROD-0073,Standard CNC Machine,Industrial Machinery,CNC Machine,317661.0,"Dewan, Saran and Dugar",Ludhiana,Punjab,India,True,3.8,31,90,3,custom size|BIS approved,2026-03-13T15:52:11.426138,synthetic
+PROD-0074,Standard Hydraulic Press,Industrial Machinery,Hydraulic Press,496175.0,"Boase, Bala and Barad",Kolkata,West Bengal,India,True,3.5,31,227,12,custom size|organic,2026-03-13T15:52:11.426186,synthetic
+PROD-0075,Heavy Duty Lathe Machine,Industrial Machinery,Lathe Machine,808739.0,Dugar-Ghosh,Nagpur,Maharashtra,India,True,3.8,19,293,12,custom size|organic,2026-03-13T15:52:11.426229,synthetic
+PROD-0076,Premium Compressor,Industrial Machinery,Compressor,432872.0,Narasimhan-Behl,Rajkot,Gujarat,India,False,4.5,41,411,12,premium|GMP certified,2026-03-13T15:52:11.426271,synthetic
+PROD-0077,Standard Welding Equipment,Industrial Machinery,Welding Equipment,123271.0,Buch-Ranganathan,Ahmedabad,Gujarat,India,False,4.8,31,226,2,custom size|CE certified,2026-03-13T15:52:11.426320,synthetic
+PROD-0078,Export Grade Hydraulic Press,Industrial Machinery,Hydraulic Press,225112.0,"Varughese, Lall and Khosla",Rajkot,Gujarat,India,True,3.3,345,272,17,organic|heavy duty,2026-03-13T15:52:11.426373,synthetic
+PROD-0079,Heavy Duty Lathe Machine,Industrial Machinery,Lathe Machine,1242209.0,Tak-Malhotra,Surat,Gujarat,India,False,3.9,3,346,13,RoHS compliant|high grade,2026-03-13T15:52:11.426411,synthetic
+PROD-0080,Heavy Duty CNC Machine,Industrial Machinery,CNC Machine,548216.0,Bora LLC,Pune,Maharashtra,India,True,4.6,121,469,20,premium|GMP certified,2026-03-13T15:52:11.426453,synthetic
+PROD-0081,Export Grade Power Supply,Electronics,Power Supply,19374.0,Choudhury-Ramesh,Delhi,Delhi,India,True,3.1,7,276,5,BIS approved|eco friendly,2026-03-13T15:52:11.426499,synthetic
+PROD-0082,Standard Control Panel,Electronics,Control Panel,5630.0,Ramachandran Ltd,Pune,Maharashtra,India,False,4.3,119,481,9,ISO certified|food grade,2026-03-13T15:52:11.426537,synthetic
+PROD-0083,Heavy Duty LED Light,Electronics,LED Light,1799.0,"Kapur, Trivedi and Buch",Pune,Maharashtra,India,True,4.4,1250,184,2,BIS approved|organic,2026-03-13T15:52:11.426583,synthetic
+PROD-0084,Premium PCB Board,Electronics,PCB Board,4252.0,Karan PLC,Ahmedabad,Gujarat,India,True,3.7,26,417,8,CE certified|heavy duty,2026-03-13T15:52:11.426629,synthetic
+PROD-0085,Heavy Duty Control Panel,Electronics,Control Panel,4944.0,"Doshi, Prashad and Vohra",Ludhiana,Punjab,India,False,3.2,47,184,8,custom size|CE certified,2026-03-13T15:52:11.426681,synthetic
+PROD-0086,Export Grade LED Light,Electronics,LED Light,5989.0,Garde-Toor,Mumbai,Maharashtra,India,True,4.5,16,263,19,export quality|eco friendly,2026-03-13T15:52:11.426724,synthetic
+PROD-0087,Premium LED Light,Electronics,LED Light,9144.0,Om Group,Coimbatore,Tamil Nadu,India,True,4.0,10,252,23,eco friendly|export quality,2026-03-13T15:52:11.426753,synthetic
+PROD-0088,Standard PCB Board,Electronics,PCB Board,6502.0,"Mukherjee, Chand and Khare",Nashik,Maharashtra,India,True,4.3,23,306,17,organic|eco friendly,2026-03-13T15:52:11.426785,synthetic
+PROD-0089,Premium Control Panel,Electronics,Control Panel,5451.0,"Parmer, Singh and Dubey",Coimbatore,Tamil Nadu,India,False,4.3,145,111,14,eco friendly|premium,2026-03-13T15:52:11.426814,synthetic
+PROD-0090,Premium Sensor,Electronics,Sensor,18285.0,"Mammen, Mannan and Chaudry",Jaipur,Rajasthan,India,True,3.6,41,47,3,export quality|BIS approved,2026-03-13T15:52:11.426852,synthetic
+PROD-0091,Heavy Duty Sensor,Electronics,Sensor,22720.0,Chhabra Ltd,Delhi,Delhi,India,False,3.8,3,27,10,custom size|organic,2026-03-13T15:52:11.426879,synthetic
+PROD-0092,Export Grade PCB Board,Electronics,PCB Board,9920.0,Radhakrishnan-Chaudhuri,Pune,Maharashtra,India,True,3.2,61,391,9,custom size|premium,2026-03-13T15:52:11.426904,synthetic
+PROD-0093,Premium Power Supply,Electronics,Power Supply,26834.0,"Handa, Mitra and Sule",Ludhiana,Punjab,India,True,4.3,30,140,23,RoHS compliant|organic,2026-03-13T15:52:11.426935,synthetic
+PROD-0094,Standard Sensor,Electronics,Sensor,6746.0,Gaba-Radhakrishnan,Nashik,Maharashtra,India,True,3.8,2,16,3,food grade|high grade,2026-03-13T15:52:11.426976,synthetic
+PROD-0095,Heavy Duty Power Supply,Electronics,Power Supply,7329.0,"Karnik, Desai and Kale",Ahmedabad,Gujarat,India,True,3.6,190,453,2,heavy duty|RoHS compliant,2026-03-13T15:52:11.427020,synthetic
+PROD-0096,Export Grade Control Panel,Electronics,Control Panel,7562.0,Muni-Pillai,Ludhiana,Punjab,India,True,3.4,20,57,10,GMP certified|RoHS compliant,2026-03-13T15:52:11.427078,synthetic
+PROD-0097,Standard Power Supply,Electronics,Power Supply,9136.0,Saha Group,Kolkata,West Bengal,India,True,4.2,10,131,10,CE certified|export quality,2026-03-13T15:52:11.427117,synthetic
+PROD-0098,Export Grade Power Supply,Electronics,Power Supply,13066.0,Wadhwa PLC,Mumbai,Maharashtra,India,True,3.5,28,182,3,BIS approved|food grade,2026-03-13T15:52:11.427143,synthetic
+PROD-0099,Export Grade Power Supply,Electronics,Power Supply,27943.0,"Kara, Pillay and Anand",Mumbai,Maharashtra,India,False,3.8,3,317,15,food grade|CE certified,2026-03-13T15:52:11.427175,synthetic
+PROD-0100,Export Grade Power Supply,Electronics,Power Supply,16176.0,"Baria, Nagy and Mittal",Delhi,Delhi,India,True,3.8,11,171,25,heavy duty|export quality,2026-03-13T15:52:11.427204,synthetic
+PROD-0101,Heavy Duty PCB Board,Electronics,PCB Board,9123.0,Thakur and Sons,Coimbatore,Tamil Nadu,India,True,4.9,28,53,5,organic|premium,2026-03-13T15:52:11.427236,synthetic
+PROD-0102,Export Grade Control Panel,Electronics,Control Panel,12017.0,Dass-Swaminathan,Bangalore,Karnataka,India,False,4.8,10,241,15,GMP certified|organic,2026-03-13T15:52:11.427264,synthetic
+PROD-0103,Premium Sensor,Electronics,Sensor,10510.0,"Karpe, Dhar and Wadhwa",Ludhiana,Punjab,India,True,3.9,134,260,13,eco friendly|custom size,2026-03-13T15:52:11.427297,synthetic
+PROD-0104,Standard PCB Board,Electronics,PCB Board,6026.0,Jha-Chada,Coimbatore,Tamil Nadu,India,True,4.0,6,259,21,heavy duty|ISO certified,2026-03-13T15:52:11.427323,synthetic
+PROD-0105,Heavy Duty Power Supply,Electronics,Power Supply,10975.0,"Kurian, Lad and Mukhopadhyay",Ahmedabad,Gujarat,India,True,4.5,29,324,21,CE certified|export quality,2026-03-13T15:52:11.427353,synthetic
+PROD-0106,Heavy Duty PCB Board,Electronics,PCB Board,9859.0,Iyer LLC,Pune,Maharashtra,India,False,4.3,8,73,12,organic|GMP certified,2026-03-13T15:52:11.427378,synthetic
+PROD-0107,Premium Power Supply,Electronics,Power Supply,1507.0,"Dhingra, Wason and Chaudhari",Rajkot,Gujarat,India,True,3.8,155,379,22,high grade|export quality,2026-03-13T15:52:11.427409,synthetic
+PROD-0108,Heavy Duty Power Supply,Electronics,Power Supply,8764.0,Suresh-Dugar,Nagpur,Maharashtra,India,True,3.4,120,116,5,heavy duty|export quality,2026-03-13T15:52:11.427434,synthetic
+PROD-0109,Premium PCB Board,Electronics,PCB Board,8861.0,Viswanathan PLC,Surat,Gujarat,India,False,4.8,36,79,6,heavy duty|food grade,2026-03-13T15:52:11.427460,synthetic
+PROD-0110,Export Grade Control Panel,Electronics,Control Panel,14397.0,"Kurian, Sheth and Issac",Ludhiana,Punjab,India,True,3.7,50,402,15,premium|high grade,2026-03-13T15:52:11.427489,synthetic
+PROD-0111,Export Grade Sensor,Electronics,Sensor,17230.0,Dewan-Wable,Ahmedabad,Gujarat,India,True,3.6,12,495,6,premium|custom size,2026-03-13T15:52:11.427515,synthetic
+PROD-0112,Heavy Duty Sensor,Electronics,Sensor,2652.0,Dugar-Kibe,Bangalore,Karnataka,India,True,3.2,3,140,15,high grade|heavy duty,2026-03-13T15:52:11.427541,synthetic
+PROD-0113,Export Grade Power Supply,Electronics,Power Supply,23771.0,Grewal-Mall,Indore,Madhya Pradesh,India,True,3.5,102,15,11,export quality|food grade,2026-03-13T15:52:11.427566,synthetic
+PROD-0114,Heavy Duty Sensor,Electronics,Sensor,13769.0,Mukhopadhyay and Sons,Nagpur,Maharashtra,India,False,3.9,339,241,15,custom size|ISO certified,2026-03-13T15:52:11.427592,synthetic
+PROD-0115,Heavy Duty PCB Board,Electronics,PCB Board,11222.0,Sidhu Ltd,Nashik,Maharashtra,India,True,3.2,4,319,15,export quality|RoHS compliant,2026-03-13T15:52:11.427619,synthetic
+PROD-0116,Standard Power Supply,Electronics,Power Supply,9912.0,Sabharwal Ltd,Indore,Madhya Pradesh,India,False,3.6,24,343,3,high grade|CE certified,2026-03-13T15:52:11.427645,synthetic
+PROD-0117,Premium Control Panel,Electronics,Control Panel,11496.0,Chakrabarti Inc,Delhi,Delhi,India,True,3.9,49,376,22,GMP certified|export quality,2026-03-13T15:52:11.427675,synthetic
+PROD-0118,Premium Control Panel,Electronics,Control Panel,14046.0,Vala Group,Ludhiana,Punjab,India,True,3.7,113,351,15,food grade|eco friendly,2026-03-13T15:52:11.427722,synthetic
+PROD-0119,Heavy Duty LED Light,Electronics,LED Light,17421.0,"Kanda, Setty and Bora",Nagpur,Maharashtra,India,True,4.6,64,159,17,BIS approved|high grade,2026-03-13T15:52:11.427759,synthetic
+PROD-0120,Premium Sensor,Electronics,Sensor,1030.0,"Raval, Mittal and Bhalla",Lucknow,Uttar Pradesh,India,False,3.7,5,456,13,food grade|eco friendly,2026-03-13T15:52:11.427790,synthetic
+PROD-0121,Export Grade Power Supply,Electronics,Power Supply,6600.0,Warrior PLC,Nashik,Maharashtra,India,True,4.6,11,218,3,BIS approved|custom size,2026-03-13T15:52:11.427828,synthetic
+PROD-0122,Premium LED Light,Electronics,LED Light,9494.0,"Gade, Ganesh and Raman",Indore,Madhya Pradesh,India,True,3.6,13,86,23,eco friendly|CE certified,2026-03-13T15:52:11.427884,synthetic
+PROD-0123,Premium PCB Board,Electronics,PCB Board,11447.0,Anand-Master,Lucknow,Uttar Pradesh,India,True,4.3,4,348,6,ISO certified|heavy duty,2026-03-13T15:52:11.427924,synthetic
+PROD-0124,Standard Control Panel,Electronics,Control Panel,13380.0,Bajaj LLC,Indore,Madhya Pradesh,India,True,4.6,12,291,2,custom size|heavy duty,2026-03-13T15:52:11.427968,synthetic
+PROD-0125,Premium Power Supply,Electronics,Power Supply,23095.0,"Mall, Dixit and Sur",Nagpur,Maharashtra,India,True,4.1,11,128,4,ISO certified|food grade,2026-03-13T15:52:11.428000,synthetic
+PROD-0126,Premium Power Supply,Electronics,Power Supply,11478.0,Nagy-Deshpande,Bangalore,Karnataka,India,True,3.5,19,437,3,eco friendly|heavy duty,2026-03-13T15:52:11.428027,synthetic
+PROD-0127,Heavy Duty Power Supply,Electronics,Power Supply,19140.0,Minhas LLC,Nashik,Maharashtra,India,False,4.7,79,261,8,export quality|premium,2026-03-13T15:52:11.428084,synthetic
+PROD-0128,Heavy Duty LED Light,Electronics,LED Light,4240.0,Thakur-Wali,Ludhiana,Punjab,India,True,3.7,80,314,3,export quality|organic,2026-03-13T15:52:11.428130,synthetic
+PROD-0129,Premium Power Supply,Electronics,Power Supply,10090.0,Baria-Prabhakar,Jaipur,Rajasthan,India,True,3.6,3,265,12,heavy duty|high grade,2026-03-13T15:52:11.428162,synthetic
+PROD-0130,Premium Control Panel,Electronics,Control Panel,3074.0,Parmar-Deshmukh,Nagpur,Maharashtra,India,False,4.0,12,479,23,premium|CE certified,2026-03-13T15:52:11.428190,synthetic
+PROD-0131,Heavy Duty Sensor,Electronics,Sensor,16318.0,Narula-Gopal,Coimbatore,Tamil Nadu,India,True,3.6,23,87,19,custom size|heavy duty,2026-03-13T15:52:11.428216,synthetic
+PROD-0132,Premium Control Panel,Electronics,Control Panel,18645.0,Guha and Sons,Bangalore,Karnataka,India,False,3.1,31,393,19,BIS approved|custom size,2026-03-13T15:52:11.428243,synthetic
+PROD-0133,Heavy Duty PCB Board,Electronics,PCB Board,8598.0,Shan-Palan,Nagpur,Maharashtra,India,False,3.6,1,208,10,eco friendly|export quality,2026-03-13T15:52:11.428273,synthetic
+PROD-0134,Export Grade PCB Board,Electronics,PCB Board,3880.0,Sachdeva PLC,Rajkot,Gujarat,India,True,4.2,5,376,12,BIS approved|heavy duty,2026-03-13T15:52:11.428317,synthetic
+PROD-0135,Standard Sensor,Electronics,Sensor,8862.0,"Gupta, Zachariah and Gara",Ludhiana,Punjab,India,True,3.5,11,149,13,custom size|BIS approved,2026-03-13T15:52:11.428362,synthetic
+PROD-0136,Standard LED Light,Electronics,LED Light,12595.0,Dada LLC,Ahmedabad,Gujarat,India,True,4.0,20,12,3,BIS approved|high grade,2026-03-13T15:52:11.428400,synthetic
+PROD-0137,Premium LED Light,Electronics,LED Light,4733.0,Bawa Ltd,Lucknow,Uttar Pradesh,India,True,4.2,173,147,18,ISO certified|export quality,2026-03-13T15:52:11.428444,synthetic
+PROD-0138,Export Grade LED Light,Electronics,LED Light,15331.0,"Golla, Kakar and Sarkar",Jaipur,Rajasthan,India,True,4.1,13,198,17,eco friendly|high grade,2026-03-13T15:52:11.428488,synthetic
+PROD-0139,Premium Control Panel,Electronics,Control Panel,11470.0,"Oommen, Date and Wadhwa",Surat,Gujarat,India,True,4.6,38,261,13,high grade|ISO certified,2026-03-13T15:52:11.428518,synthetic
+PROD-0140,Export Grade PCB Board,Electronics,PCB Board,4104.0,Korpal and Sons,Mumbai,Maharashtra,India,True,3.3,73,202,20,food grade|organic,2026-03-13T15:52:11.428543,synthetic
+PROD-0141,Export Grade Sensor,Electronics,Sensor,8839.0,Guha Group,Kolkata,West Bengal,India,False,3.6,56,345,4,BIS approved|custom size,2026-03-13T15:52:11.428568,synthetic
+PROD-0142,Standard PCB Board,Electronics,PCB Board,10379.0,Rajan-Kumer,Surat,Gujarat,India,False,4.2,3,318,25,BIS approved|heavy duty,2026-03-13T15:52:11.428593,synthetic
+PROD-0143,Standard LED Light,Electronics,LED Light,6407.0,"Sarin, Yadav and Raman",Indore,Madhya Pradesh,India,True,4.5,33,71,17,premium|high grade,2026-03-13T15:52:11.428623,synthetic
+PROD-0144,Standard Power Supply,Electronics,Power Supply,9113.0,Hora Ltd,Pune,Maharashtra,India,True,4.1,26,445,24,GMP certified|RoHS compliant,2026-03-13T15:52:11.428647,synthetic
+PROD-0145,Standard Sensor,Electronics,Sensor,10441.0,Goel Ltd,Ludhiana,Punjab,India,True,3.6,133,354,23,eco friendly|CE certified,2026-03-13T15:52:11.428673,synthetic
+PROD-0146,Heavy Duty Sensor,Electronics,Sensor,30749.0,Bassi Inc,Lucknow,Uttar Pradesh,India,True,4.1,47,203,12,RoHS compliant|heavy duty,2026-03-13T15:52:11.428698,synthetic
+PROD-0147,Heavy Duty PCB Board,Electronics,PCB Board,3124.0,Nagarajan and Sons,Surat,Gujarat,India,False,4.3,38,424,18,organic|high grade,2026-03-13T15:52:11.428722,synthetic
+PROD-0148,Standard Sensor,Electronics,Sensor,2371.0,Bir Group,Rajkot,Gujarat,India,True,4.3,23,27,4,BIS approved|CE certified,2026-03-13T15:52:11.428745,synthetic
+PROD-0149,Export Grade Power Supply,Electronics,Power Supply,23375.0,Dara PLC,Rajkot,Gujarat,India,True,3.4,82,331,2,RoHS compliant|export quality,2026-03-13T15:52:11.428770,synthetic
+PROD-0150,Premium Control Panel,Electronics,Control Panel,2122.0,Nadkarni-Issac,Nagpur,Maharashtra,India,False,3.4,52,471,2,BIS approved|eco friendly,2026-03-13T15:52:11.428795,synthetic
+PROD-0151,Heavy Duty Sensor,Electronics,Sensor,9614.0,Handa Inc,Bangalore,Karnataka,India,True,5.0,23,481,5,high grade|eco friendly,2026-03-13T15:52:11.428825,synthetic
+PROD-0152,Export Grade LED Light,Electronics,LED Light,16313.0,"Lanka, Manda and Garg",Surat,Gujarat,India,False,4.4,4,152,19,GMP certified|premium,2026-03-13T15:52:11.428883,synthetic
+PROD-0153,Premium Control Panel,Electronics,Control Panel,21858.0,"Bal, Pau and Ahuja",Bangalore,Karnataka,India,True,3.2,133,480,8,ISO certified|organic,2026-03-13T15:52:11.428923,synthetic
+PROD-0154,Heavy Duty LED Light,Electronics,LED Light,7838.0,Hayre Inc,Jaipur,Rajasthan,India,True,4.4,30,61,15,organic|heavy duty,2026-03-13T15:52:11.428950,synthetic
+PROD-0155,Heavy Duty Control Panel,Electronics,Control Panel,28631.0,"Choudhary, Sibal and Chander",Jaipur,Rajasthan,India,True,3.4,122,233,24,custom size|CE certified,2026-03-13T15:52:11.428980,synthetic
+PROD-0156,Premium Control Panel,Electronics,Control Panel,26656.0,Butala LLC,Jaipur,Rajasthan,India,True,4.1,0,58,2,high grade|RoHS compliant,2026-03-13T15:52:11.429005,synthetic
+PROD-0157,Export Grade Control Panel,Electronics,Control Panel,9198.0,Kannan Group,Ahmedabad,Gujarat,India,True,3.4,24,262,15,RoHS compliant|ISO certified,2026-03-13T15:52:11.429029,synthetic
+PROD-0158,Premium LED Light,Electronics,LED Light,8955.0,"Keer, Viswanathan and Narula",Lucknow,Uttar Pradesh,India,True,4.3,10,217,12,food grade|export quality,2026-03-13T15:52:11.429085,synthetic
+PROD-0159,Export Grade PCB Board,Electronics,PCB Board,5040.0,"Varty, Chaudhuri and Dugar",Coimbatore,Tamil Nadu,India,True,4.8,5,194,13,export quality|GMP certified,2026-03-13T15:52:11.429128,synthetic
+PROD-0160,Standard Control Panel,Electronics,Control Panel,7320.0,Pal-Bath,Nagpur,Maharashtra,India,False,4.5,125,369,18,BIS approved|high grade,2026-03-13T15:52:11.429155,synthetic
+PROD-0161,Heavy Duty Polyester Yarn,Textiles,Polyester Yarn,1020.0,"Mohan, Ravel and Dhaliwal",Jaipur,Rajasthan,India,True,4.8,47,480,1,premium|RoHS compliant,2026-03-13T15:52:11.429188,synthetic
+PROD-0162,Premium Cotton Fabric,Textiles,Cotton Fabric,2186.0,"Suri, Choudhury and Majumdar",Delhi,Delhi,India,True,3.1,15,387,25,ISO certified|heavy duty,2026-03-13T15:52:11.429216,synthetic
+PROD-0163,Heavy Duty Denim,Textiles,Denim,2218.0,Sidhu-Bath,Coimbatore,Tamil Nadu,India,True,4.8,15,286,19,food grade|heavy duty,2026-03-13T15:52:11.429242,synthetic
+PROD-0164,Heavy Duty Silk,Textiles,Silk,1877.0,Zachariah LLC,Nagpur,Maharashtra,India,False,4.3,47,214,14,heavy duty|organic,2026-03-13T15:52:11.429267,synthetic
+PROD-0165,Standard Polyester Yarn,Textiles,Polyester Yarn,3362.0,"Anand, Mani and Bail",Jaipur,Rajasthan,India,True,4.4,1082,286,17,heavy duty|BIS approved,2026-03-13T15:52:11.429296,synthetic
+PROD-0166,Export Grade Denim,Textiles,Denim,547.0,Golla-Sankaran,Ahmedabad,Gujarat,India,False,3.2,35,138,13,GMP certified|custom size,2026-03-13T15:52:11.429335,synthetic
+PROD-0167,Standard Cotton Fabric,Textiles,Cotton Fabric,3257.0,Handa-Choudhry,Kolkata,West Bengal,India,True,4.7,5,105,13,premium|high grade,2026-03-13T15:52:11.429380,synthetic
+PROD-0168,Heavy Duty Denim,Textiles,Denim,1219.0,Dhar Ltd,Pune,Maharashtra,India,True,3.7,87,412,24,eco friendly|CE certified,2026-03-13T15:52:11.429422,synthetic
+PROD-0169,Standard Polyester Yarn,Textiles,Polyester Yarn,1280.0,Sarma Group,Nashik,Maharashtra,India,False,3.0,26,369,14,organic|heavy duty,2026-03-13T15:52:11.429449,synthetic
+PROD-0170,Standard Denim,Textiles,Denim,732.0,"Sabharwal, Chauhan and Thaker",Ahmedabad,Gujarat,India,True,4.3,33,421,16,food grade|GMP certified,2026-03-13T15:52:11.429478,synthetic
+PROD-0171,Heavy Duty Silk,Textiles,Silk,1416.0,Mall-Dhar,Rajkot,Gujarat,India,True,4.4,15,278,21,ISO certified|high grade,2026-03-13T15:52:11.429502,synthetic
+PROD-0172,Standard Cotton Fabric,Textiles,Cotton Fabric,3211.0,"Viswanathan, Lata and Kibe",Mumbai,Maharashtra,India,True,3.3,6,31,20,GMP certified|RoHS compliant,2026-03-13T15:52:11.429533,synthetic
+PROD-0173,Heavy Duty Knitted Fabric,Textiles,Knitted Fabric,1530.0,"Das, Ben and More",Nashik,Maharashtra,India,True,3.6,20,221,6,export quality|RoHS compliant,2026-03-13T15:52:11.429561,synthetic
+PROD-0174,Heavy Duty Polyester Yarn,Textiles,Polyester Yarn,680.0,Batta and Sons,Coimbatore,Tamil Nadu,India,False,3.5,14,208,15,custom size|premium,2026-03-13T15:52:11.429587,synthetic
+PROD-0175,Premium Polyester Yarn,Textiles,Polyester Yarn,351.0,Ganguly-Wable,Rajkot,Gujarat,India,False,4.7,36,195,13,high grade|eco friendly,2026-03-13T15:52:11.429614,synthetic
+PROD-0176,Export Grade Cotton Fabric,Textiles,Cotton Fabric,2346.0,"Narula, Batra and Raju",Mumbai,Maharashtra,India,False,3.7,50,139,2,export quality|GMP certified,2026-03-13T15:52:11.429642,synthetic
+PROD-0177,Premium Denim,Textiles,Denim,6079.0,"Dada, Chakraborty and Rout",Nashik,Maharashtra,India,True,4.7,7,291,13,GMP certified|high grade,2026-03-13T15:52:11.429673,synthetic
+PROD-0178,Premium Silk,Textiles,Silk,2604.0,"Minhas, Lala and Dugar",Pune,Maharashtra,India,True,4.9,3,430,3,CE certified|custom size,2026-03-13T15:52:11.429701,synthetic
+PROD-0179,Heavy Duty Knitted Fabric,Textiles,Knitted Fabric,4875.0,Narang PLC,Ludhiana,Punjab,India,True,3.5,12,339,13,export quality|custom size,2026-03-13T15:52:11.429725,synthetic
+PROD-0180,Standard Polyester Yarn,Textiles,Polyester Yarn,2382.0,Hayer PLC,Surat,Gujarat,India,True,4.6,6,185,4,export quality|ISO certified,2026-03-13T15:52:11.429749,synthetic
+PROD-0181,Standard Silk,Textiles,Silk,1331.0,"Hari, Garg and Rege",Surat,Gujarat,India,True,3.9,25,53,1,export quality|CE certified,2026-03-13T15:52:11.429793,synthetic
+PROD-0182,Export Grade Cotton Fabric,Textiles,Cotton Fabric,3210.0,Sinha and Sons,Coimbatore,Tamil Nadu,India,True,3.8,162,287,8,custom size|high grade,2026-03-13T15:52:11.429832,synthetic
+PROD-0183,Heavy Duty Silk,Textiles,Silk,931.0,Varughese-Sachar,Bangalore,Karnataka,India,True,3.1,15,248,3,CE certified|organic,2026-03-13T15:52:11.429882,synthetic
+PROD-0184,Premium Silk,Textiles,Silk,2033.0,Dhar LLC,Ahmedabad,Gujarat,India,True,3.0,5,195,11,eco friendly|CE certified,2026-03-13T15:52:11.429925,synthetic
+PROD-0185,Standard Knitted Fabric,Textiles,Knitted Fabric,830.0,"Sathe, Shan and Brahmbhatt",Jaipur,Rajasthan,India,True,3.4,14,377,23,GMP certified|eco friendly,2026-03-13T15:52:11.429960,synthetic
+PROD-0186,Export Grade Polyester Yarn,Textiles,Polyester Yarn,1243.0,"Rama, Murthy and Tella",Kolkata,West Bengal,India,True,4.9,1,14,24,eco friendly|food grade,2026-03-13T15:52:11.429989,synthetic
+PROD-0187,Standard Silk,Textiles,Silk,5975.0,"Rout, Chopra and Raj",Ahmedabad,Gujarat,India,False,3.5,63,405,13,export quality|eco friendly,2026-03-13T15:52:11.430020,synthetic
+PROD-0188,Export Grade Silk,Textiles,Silk,2207.0,Oak Ltd,Kolkata,West Bengal,India,True,4.6,1,275,20,GMP certified|export quality,2026-03-13T15:52:11.430068,synthetic
+PROD-0189,Premium Polyester Yarn,Textiles,Polyester Yarn,2422.0,Mutti LLC,Delhi,Delhi,India,True,4.3,3,55,1,export quality|organic,2026-03-13T15:52:11.430115,synthetic
+PROD-0190,Standard Knitted Fabric,Textiles,Knitted Fabric,3728.0,Wadhwa-Kapur,Ahmedabad,Gujarat,India,True,3.8,78,257,5,CE certified|ISO certified,2026-03-13T15:52:11.430143,synthetic
+PROD-0191,Heavy Duty Cotton Fabric,Textiles,Cotton Fabric,2812.0,Srivastava Inc,Lucknow,Uttar Pradesh,India,True,3.4,18,225,24,food grade|eco friendly,2026-03-13T15:52:11.430169,synthetic
+PROD-0192,Premium Cotton Fabric,Textiles,Cotton Fabric,409.0,Mistry Inc,Pune,Maharashtra,India,True,3.7,21,170,18,BIS approved|eco friendly,2026-03-13T15:52:11.430194,synthetic
+PROD-0193,Export Grade Silk,Textiles,Silk,2156.0,Mannan-Loyal,Ahmedabad,Gujarat,India,True,4.5,84,220,13,ISO certified|food grade,2026-03-13T15:52:11.430217,synthetic
+PROD-0194,Premium Polyester Yarn,Textiles,Polyester Yarn,620.0,Pillai-Cheema,Ahmedabad,Gujarat,India,True,4.6,22,101,15,export quality|organic,2026-03-13T15:52:11.430241,synthetic
+PROD-0195,Export Grade Silk,Textiles,Silk,1925.0,Nath-Keer,Nagpur,Maharashtra,India,True,4.2,2,317,6,GMP certified|food grade,2026-03-13T15:52:11.430269,synthetic
+PROD-0196,Standard Denim,Textiles,Denim,7038.0,Munshi PLC,Ludhiana,Punjab,India,True,3.5,5,73,17,BIS approved|RoHS compliant,2026-03-13T15:52:11.430293,synthetic
+PROD-0197,Export Grade Polyester Yarn,Textiles,Polyester Yarn,2069.0,Dutt Group,Kolkata,West Bengal,India,False,4.4,25,72,6,CE certified|eco friendly,2026-03-13T15:52:11.430331,synthetic
+PROD-0198,Export Grade Cotton Fabric,Textiles,Cotton Fabric,1687.0,Rajagopal Ltd,Kolkata,West Bengal,India,False,4.0,19,213,23,eco friendly|RoHS compliant,2026-03-13T15:52:11.430373,synthetic
+PROD-0199,Standard Cotton Fabric,Textiles,Cotton Fabric,2689.0,"Chaudhuri, Hayer and Lall",Bangalore,Karnataka,India,True,3.5,22,235,19,food grade|eco friendly,2026-03-13T15:52:11.430408,synthetic
+PROD-0200,Premium Knitted Fabric,Textiles,Knitted Fabric,618.0,Ram Ltd,Coimbatore,Tamil Nadu,India,False,3.9,7,377,21,RoHS compliant|premium,2026-03-13T15:52:11.430433,synthetic
+PROD-0201,Premium Cotton Fabric,Textiles,Cotton Fabric,1558.0,Rout-Jaggi,Surat,Gujarat,India,True,5.0,42,416,24,custom size|food grade,2026-03-13T15:52:11.430457,synthetic
+PROD-0202,Standard Knitted Fabric,Textiles,Knitted Fabric,2155.0,Khalsa Group,Pune,Maharashtra,India,False,4.6,86,273,9,custom size|high grade,2026-03-13T15:52:11.430482,synthetic
+PROD-0203,Heavy Duty Denim,Textiles,Denim,4387.0,Shankar-Chaudhuri,Bangalore,Karnataka,India,False,4.0,16,142,21,heavy duty|food grade,2026-03-13T15:52:11.430507,synthetic
+PROD-0204,Standard Polyester Yarn,Textiles,Polyester Yarn,527.0,Raman PLC,Indore,Madhya Pradesh,India,False,4.4,19,138,21,BIS approved|RoHS compliant,2026-03-13T15:52:11.430533,synthetic
+PROD-0205,Premium Cotton Fabric,Textiles,Cotton Fabric,7998.0,Butala PLC,Lucknow,Uttar Pradesh,India,True,4.5,526,233,16,CE certified|custom size,2026-03-13T15:52:11.430556,synthetic
+PROD-0206,Heavy Duty Cotton Fabric,Textiles,Cotton Fabric,3110.0,Dhingra Group,Mumbai,Maharashtra,India,False,4.6,75,166,10,CE certified|high grade,2026-03-13T15:52:11.430581,synthetic
+PROD-0207,Heavy Duty Polyester Yarn,Textiles,Polyester Yarn,2066.0,Raju Inc,Kolkata,West Bengal,India,False,4.5,0,449,9,export quality|GMP certified,2026-03-13T15:52:11.430608,synthetic
+PROD-0208,Heavy Duty Denim,Textiles,Denim,2149.0,Rout and Sons,Pune,Maharashtra,India,False,4.5,17,49,1,premium|eco friendly,2026-03-13T15:52:11.430633,synthetic
+PROD-0209,Export Grade Polyester Yarn,Textiles,Polyester Yarn,2263.0,Badami Group,Delhi,Delhi,India,True,4.4,16,37,8,BIS approved|export quality,2026-03-13T15:52:11.430657,synthetic
+PROD-0210,Heavy Duty Cotton Fabric,Textiles,Cotton Fabric,732.0,"Dugar, Maharaj and Bhat",Rajkot,Gujarat,India,True,4.5,36,347,5,export quality|high grade,2026-03-13T15:52:11.430687,synthetic
+PROD-0211,Heavy Duty Cotton Fabric,Textiles,Cotton Fabric,2076.0,Shan-Natt,Kolkata,West Bengal,India,False,4.3,5,352,15,premium|export quality,2026-03-13T15:52:11.430713,synthetic
+PROD-0212,Export Grade Cotton Fabric,Textiles,Cotton Fabric,986.0,"Sibal, Kurian and Handa",Nashik,Maharashtra,India,True,3.9,44,331,3,premium|high grade,2026-03-13T15:52:11.430741,synthetic
+PROD-0213,Premium Knitted Fabric,Textiles,Knitted Fabric,2648.0,Om Inc,Kolkata,West Bengal,India,False,4.3,8,261,7,food grade|BIS approved,2026-03-13T15:52:11.430776,synthetic
+PROD-0214,Standard Cotton Fabric,Textiles,Cotton Fabric,11450.0,Saha PLC,Surat,Gujarat,India,True,3.2,20,271,1,CE certified|RoHS compliant,2026-03-13T15:52:11.430817,synthetic
+PROD-0215,Heavy Duty Silk,Textiles,Silk,5455.0,Mand-Comar,Bangalore,Karnataka,India,True,3.3,0,38,1,custom size|export quality,2026-03-13T15:52:11.430866,synthetic
+PROD-0216,Heavy Duty Denim,Textiles,Denim,4817.0,"Jhaveri, Tak and Nagar",Mumbai,Maharashtra,India,False,4.0,11,43,21,high grade|RoHS compliant,2026-03-13T15:52:11.430905,synthetic
+PROD-0217,Standard Polyester Yarn,Textiles,Polyester Yarn,1113.0,"Mani, Sarma and Sehgal",Kolkata,West Bengal,India,False,3.3,8,391,21,GMP certified|RoHS compliant,2026-03-13T15:52:11.430935,synthetic
+PROD-0218,Standard Denim,Textiles,Denim,4754.0,Bandi-Bhagat,Delhi,Delhi,India,True,3.2,15,312,2,organic|GMP certified,2026-03-13T15:52:11.430961,synthetic
+PROD-0219,Heavy Duty Polyester Yarn,Textiles,Polyester Yarn,2411.0,"Prabhu, Chaudhuri and Bhat",Rajkot,Gujarat,India,True,4.6,34,65,24,RoHS compliant|organic,2026-03-13T15:52:11.430989,synthetic
+PROD-0220,Premium Cotton Fabric,Textiles,Cotton Fabric,3090.0,Suresh Ltd,Rajkot,Gujarat,India,True,5.0,33,262,12,ISO certified|eco friendly,2026-03-13T15:52:11.431015,synthetic
+PROD-0221,Premium Knitted Fabric,Textiles,Knitted Fabric,1007.0,"Dey, Vaidya and Mital",Indore,Madhya Pradesh,India,False,4.3,0,92,2,high grade|food grade,2026-03-13T15:52:11.431059,synthetic
+PROD-0222,Heavy Duty Silk,Textiles,Silk,1047.0,Keer-Thakur,Rajkot,Gujarat,India,True,3.2,11,462,2,heavy duty|premium,2026-03-13T15:52:11.431098,synthetic
+PROD-0223,Heavy Duty Knitted Fabric,Textiles,Knitted Fabric,573.0,"Ghose, Sunder and Cheema",Ludhiana,Punjab,India,False,3.6,4,189,7,organic|custom size,2026-03-13T15:52:11.431129,synthetic
+PROD-0224,Heavy Duty Denim,Textiles,Denim,2674.0,"Sama, Subramaniam and Yogi",Ludhiana,Punjab,India,True,4.0,40,462,18,RoHS compliant|premium,2026-03-13T15:52:11.431159,synthetic
+PROD-0225,Premium Cotton Fabric,Textiles,Cotton Fabric,2026.0,Kaur-Issac,Bangalore,Karnataka,India,False,3.0,171,373,10,export quality|premium,2026-03-13T15:52:11.431183,synthetic
+PROD-0226,Standard Polyester Yarn,Textiles,Polyester Yarn,200.0,"Andra, Ratti and Jaggi",Coimbatore,Tamil Nadu,India,False,3.2,23,191,15,food grade|export quality,2026-03-13T15:52:11.431213,synthetic
+PROD-0227,Export Grade Cotton Fabric,Textiles,Cotton Fabric,1768.0,Chokshi and Sons,Kolkata,West Bengal,India,True,4.1,0,122,10,organic|CE certified,2026-03-13T15:52:11.431243,synthetic
+PROD-0228,Heavy Duty Silk,Textiles,Silk,4905.0,Seshadri and Sons,Nashik,Maharashtra,India,True,3.5,37,55,6,eco friendly|RoHS compliant,2026-03-13T15:52:11.431287,synthetic
+PROD-0229,Standard Silk,Textiles,Silk,770.0,Kapur-Sanghvi,Pune,Maharashtra,India,True,3.9,49,361,23,custom size|ISO certified,2026-03-13T15:52:11.431313,synthetic
+PROD-0230,Heavy Duty Denim,Textiles,Denim,326.0,Bail-Mohan,Ahmedabad,Gujarat,India,True,3.1,2,90,1,BIS approved|eco friendly,2026-03-13T15:52:11.431347,synthetic
+PROD-0231,Standard Knitted Fabric,Textiles,Knitted Fabric,915.0,Borra-Sethi,Coimbatore,Tamil Nadu,India,True,3.1,42,102,13,CE certified|GMP certified,2026-03-13T15:52:11.431384,synthetic
+PROD-0232,Premium Cotton Fabric,Textiles,Cotton Fabric,2017.0,Ramaswamy Inc,Nagpur,Maharashtra,India,True,3.1,89,66,3,RoHS compliant|CE certified,2026-03-13T15:52:11.431421,synthetic
+PROD-0233,Export Grade Cotton Fabric,Textiles,Cotton Fabric,4837.0,Mangal-Mani,Delhi,Delhi,India,True,3.8,15,466,6,organic|RoHS compliant,2026-03-13T15:52:11.431458,synthetic
+PROD-0234,Export Grade Polyester Yarn,Textiles,Polyester Yarn,1056.0,Toor-Luthra,Lucknow,Uttar Pradesh,India,False,4.0,5,215,7,GMP certified|high grade,2026-03-13T15:52:11.431495,synthetic
+PROD-0235,Export Grade Knitted Fabric,Textiles,Knitted Fabric,3168.0,Boase Ltd,Ahmedabad,Gujarat,India,True,4.1,12,14,11,custom size|premium,2026-03-13T15:52:11.431532,synthetic
+PROD-0236,Standard Denim,Textiles,Denim,2060.0,Sawhney-Patil,Mumbai,Maharashtra,India,False,3.2,31,418,24,ISO certified|premium,2026-03-13T15:52:11.431570,synthetic
+PROD-0237,Standard Silk,Textiles,Silk,502.0,Kata Inc,Kolkata,West Bengal,India,True,4.2,161,468,19,ISO certified|food grade,2026-03-13T15:52:11.431609,synthetic
+PROD-0238,Standard Denim,Textiles,Denim,7077.0,Sastry Inc,Rajkot,Gujarat,India,False,4.6,166,90,16,ISO certified|export quality,2026-03-13T15:52:11.431644,synthetic
+PROD-0239,Export Grade Polyester Yarn,Textiles,Polyester Yarn,1997.0,Dhingra Ltd,Mumbai,Maharashtra,India,True,4.8,9,368,6,RoHS compliant|CE certified,2026-03-13T15:52:11.431682,synthetic
+PROD-0240,Standard Cotton Fabric,Textiles,Cotton Fabric,337.0,"Mannan, Sani and Gour",Mumbai,Maharashtra,India,False,4.7,15,155,11,heavy duty|RoHS compliant,2026-03-13T15:52:11.431725,synthetic
+PROD-0241,Heavy Duty Organic Products,Agriculture,Organic Products,8104.0,"Venkataraman, Sabharwal and Bava",Rajkot,Gujarat,India,True,4.2,7,353,10,heavy duty|RoHS compliant,2026-03-13T15:52:11.431778,synthetic
+PROD-0242,Standard Spices,Agriculture,Spices,37489.0,Dixit Ltd,Rajkot,Gujarat,India,False,3.2,19,40,8,CE certified|RoHS compliant,2026-03-13T15:52:11.431820,synthetic
+PROD-0243,Heavy Duty Spices,Agriculture,Spices,24102.0,Gara-Samra,Bangalore,Karnataka,India,True,3.5,11,132,4,food grade|ISO certified,2026-03-13T15:52:11.431865,synthetic
+PROD-0244,Standard Organic Products,Agriculture,Organic Products,5465.0,Wali Inc,Mumbai,Maharashtra,India,False,4.0,11,52,16,RoHS compliant|custom size,2026-03-13T15:52:11.431892,synthetic
+PROD-0245,Heavy Duty Pulses,Agriculture,Pulses,12397.0,Tara-Chana,Nagpur,Maharashtra,India,True,3.2,1,83,24,export quality|high grade,2026-03-13T15:52:11.431918,synthetic
+PROD-0246,Export Grade Spices,Agriculture,Spices,4818.0,Modi-Raju,Nashik,Maharashtra,India,True,3.2,9,357,18,food grade|RoHS compliant,2026-03-13T15:52:11.431944,synthetic
+PROD-0247,Premium Rice,Agriculture,Rice,8655.0,Arora-Patla,Coimbatore,Tamil Nadu,India,True,4.1,45,185,1,BIS approved|export quality,2026-03-13T15:52:11.431968,synthetic
+PROD-0248,Standard Agro Equipment,Agriculture,Agro Equipment,6138.0,Ray LLC,Surat,Gujarat,India,True,3.6,10,251,22,organic|export quality,2026-03-13T15:52:11.431995,synthetic
+PROD-0249,Export Grade Agro Equipment,Agriculture,Agro Equipment,4948.0,Mand-Iyengar,Nagpur,Maharashtra,India,True,3.9,8,116,9,custom size|ISO certified,2026-03-13T15:52:11.432018,synthetic
+PROD-0250,Export Grade Spices,Agriculture,Spices,2659.0,Jhaveri-Patil,Bangalore,Karnataka,India,False,4.2,40,420,17,BIS approved|high grade,2026-03-13T15:52:11.432067,synthetic
+PROD-0251,Heavy Duty Organic Products,Agriculture,Organic Products,7207.0,"Nayak, Natt and Verma",Nagpur,Maharashtra,India,True,4.8,48,462,17,RoHS compliant|custom size,2026-03-13T15:52:11.432114,synthetic
+PROD-0252,Standard Agro Equipment,Agriculture,Agro Equipment,1602.0,Dhaliwal and Sons,Nagpur,Maharashtra,India,False,4.6,5,350,14,premium|GMP certified,2026-03-13T15:52:11.432143,synthetic
+PROD-0253,Heavy Duty Agro Equipment,Agriculture,Agro Equipment,4902.0,Sarin LLC,Bangalore,Karnataka,India,False,4.0,54,401,14,export quality|BIS approved,2026-03-13T15:52:11.432169,synthetic
+PROD-0254,Premium Pulses,Agriculture,Pulses,7873.0,Mistry-Gulati,Bangalore,Karnataka,India,False,4.1,6,275,12,BIS approved|organic,2026-03-13T15:52:11.432215,synthetic
+PROD-0255,Standard Organic Products,Agriculture,Organic Products,7629.0,Mutti Group,Jaipur,Rajasthan,India,True,3.3,41,20,13,CE certified|food grade,2026-03-13T15:52:11.432240,synthetic
+PROD-0256,Heavy Duty Spices,Agriculture,Spices,11816.0,Pathak Inc,Ahmedabad,Gujarat,India,False,4.7,9,381,15,RoHS compliant|CE certified,2026-03-13T15:52:11.432266,synthetic
+PROD-0257,Export Grade Organic Products,Agriculture,Organic Products,7409.0,Grover-Dixit,Surat,Gujarat,India,True,4.6,157,445,12,ISO certified|high grade,2026-03-13T15:52:11.432292,synthetic
+PROD-0258,Premium Pulses,Agriculture,Pulses,3457.0,"Oza, Parikh and Sibal",Ludhiana,Punjab,India,True,4.8,14,189,15,high grade|BIS approved,2026-03-13T15:52:11.432322,synthetic
+PROD-0259,Export Grade Spices,Agriculture,Spices,8780.0,"Mangat, Balay and Vala",Nagpur,Maharashtra,India,True,3.4,127,180,12,heavy duty|organic,2026-03-13T15:52:11.432350,synthetic
+PROD-0260,Standard Spices,Agriculture,Spices,3910.0,Gola-Andra,Rajkot,Gujarat,India,False,4.6,9,116,22,premium|organic,2026-03-13T15:52:11.432374,synthetic
+PROD-0261,Premium Organic Products,Agriculture,Organic Products,7236.0,"Rana, Kale and Malhotra",Nagpur,Maharashtra,India,True,3.3,4,483,10,food grade|RoHS compliant,2026-03-13T15:52:11.432402,synthetic
+PROD-0262,Heavy Duty Rice,Agriculture,Rice,5348.0,Johal-Bajaj,Nagpur,Maharashtra,India,True,3.4,8,320,13,custom size|export quality,2026-03-13T15:52:11.432425,synthetic
+PROD-0263,Heavy Duty Agro Equipment,Agriculture,Agro Equipment,18293.0,Banerjee Inc,Mumbai,Maharashtra,India,True,3.2,162,134,21,food grade|GMP certified,2026-03-13T15:52:11.432450,synthetic
+PROD-0264,Heavy Duty Pulses,Agriculture,Pulses,17849.0,Bassi-Ramesh,Surat,Gujarat,India,False,4.4,8,199,24,ISO certified|custom size,2026-03-13T15:52:11.432474,synthetic
+PROD-0265,Standard Agro Equipment,Agriculture,Agro Equipment,12240.0,Singhal-Walla,Rajkot,Gujarat,India,False,4.3,8,184,17,organic|heavy duty,2026-03-13T15:52:11.432499,synthetic
+PROD-0266,Standard Agro Equipment,Agriculture,Agro Equipment,3894.0,Garde-Borra,Indore,Madhya Pradesh,India,False,4.5,80,485,22,CE certified|GMP certified,2026-03-13T15:52:11.432522,synthetic
+PROD-0267,Heavy Duty Pulses,Agriculture,Pulses,2909.0,"Konda, Sidhu and Dutt",Delhi,Delhi,India,True,4.8,10,238,4,eco friendly|ISO certified,2026-03-13T15:52:11.432549,synthetic
+PROD-0268,Export Grade Agro Equipment,Agriculture,Agro Equipment,8457.0,Mitter LLC,Indore,Madhya Pradesh,India,False,4.0,68,153,14,ISO certified|heavy duty,2026-03-13T15:52:11.432572,synthetic
+PROD-0269,Export Grade Pulses,Agriculture,Pulses,4819.0,Yogi PLC,Bangalore,Karnataka,India,True,4.5,18,46,5,custom size|BIS approved,2026-03-13T15:52:11.432599,synthetic
+PROD-0270,Standard Organic Products,Agriculture,Organic Products,5355.0,"Chakraborty, Boase and Natarajan",Nagpur,Maharashtra,India,False,4.9,21,3,21,food grade|premium,2026-03-13T15:52:11.432630,synthetic
+PROD-0271,Heavy Duty Rice,Agriculture,Rice,4745.0,"Date, Hans and Bala",Ahmedabad,Gujarat,India,True,4.6,11,373,17,custom size|high grade,2026-03-13T15:52:11.432657,synthetic
+PROD-0272,Heavy Duty Organic Products,Agriculture,Organic Products,709.0,Sawhney Ltd,Pune,Maharashtra,India,False,3.3,2,64,12,food grade|GMP certified,2026-03-13T15:52:11.432683,synthetic
+PROD-0273,Premium Spices,Agriculture,Spices,3928.0,Gara-Krishnan,Ludhiana,Punjab,India,True,3.1,17,130,16,food grade|heavy duty,2026-03-13T15:52:11.432716,synthetic
+PROD-0274,Heavy Duty Spices,Agriculture,Spices,2823.0,"Pau, Ravi and Khosla",Ahmedabad,Gujarat,India,False,4.4,3,262,24,custom size|export quality,2026-03-13T15:52:11.432746,synthetic
+PROD-0275,Standard Spices,Agriculture,Spices,13771.0,"Karan, Warrior and Iyengar",Surat,Gujarat,India,False,4.7,91,210,10,heavy duty|ISO certified,2026-03-13T15:52:11.432783,synthetic
+PROD-0276,Premium Organic Products,Agriculture,Organic Products,6109.0,Memon-Bhakta,Coimbatore,Tamil Nadu,India,False,4.8,161,77,3,RoHS compliant|high grade,2026-03-13T15:52:11.433036,synthetic
+PROD-0277,Export Grade Spices,Agriculture,Spices,30156.0,Kibe-Doshi,Delhi,Delhi,India,False,3.6,18,90,2,organic|CE certified,2026-03-13T15:52:11.433121,synthetic
+PROD-0278,Premium Rice,Agriculture,Rice,5638.0,"Nagy, Dey and Mistry",Ludhiana,Punjab,India,True,3.3,31,458,15,custom size|organic,2026-03-13T15:52:11.433175,synthetic
+PROD-0279,Premium Spices,Agriculture,Spices,4848.0,"Chandran, Purohit and Mangal",Nashik,Maharashtra,India,True,4.9,9,436,16,RoHS compliant|BIS approved,2026-03-13T15:52:11.433224,synthetic
+PROD-0280,Export Grade Pulses,Agriculture,Pulses,2840.0,Barman-Dugal,Nagpur,Maharashtra,India,False,4.4,6,184,20,ISO certified|GMP certified,2026-03-13T15:52:11.433263,synthetic
+PROD-0281,Export Grade Pulses,Agriculture,Pulses,6044.0,"Dhillon, Sawhney and Thakkar",Nashik,Maharashtra,India,True,3.1,99,381,19,food grade|custom size,2026-03-13T15:52:11.433306,synthetic
+PROD-0282,Premium Rice,Agriculture,Rice,6879.0,"Deep, Mody and Goda",Ahmedabad,Gujarat,India,True,4.5,17,329,13,heavy duty|high grade,2026-03-13T15:52:11.433349,synthetic
+PROD-0283,Standard Agro Equipment,Agriculture,Agro Equipment,2007.0,Lad-Setty,Nashik,Maharashtra,India,True,3.6,20,194,13,premium|export quality,2026-03-13T15:52:11.433393,synthetic
+PROD-0284,Export Grade Organic Products,Agriculture,Organic Products,13378.0,Palla Group,Lucknow,Uttar Pradesh,India,True,3.2,19,53,13,BIS approved|ISO certified,2026-03-13T15:52:11.433431,synthetic
+PROD-0285,Heavy Duty Agro Equipment,Agriculture,Agro Equipment,9206.0,Bhandari-Dasgupta,Coimbatore,Tamil Nadu,India,False,4.1,36,175,12,ISO certified|premium,2026-03-13T15:52:11.433471,synthetic
+PROD-0286,Export Grade Organic Products,Agriculture,Organic Products,2347.0,Vyas and Sons,Indore,Madhya Pradesh,India,False,3.7,18,338,8,ISO certified|CE certified,2026-03-13T15:52:11.433513,synthetic
+PROD-0287,Premium Rice,Agriculture,Rice,7021.0,"Srivastava, Murthy and Basak",Pune,Maharashtra,India,True,3.3,1,370,14,export quality|organic,2026-03-13T15:52:11.433729,synthetic
+PROD-0288,Standard Pulses,Agriculture,Pulses,4825.0,Solanki and Sons,Kolkata,West Bengal,India,False,3.2,1,429,22,custom size|export quality,2026-03-13T15:52:11.433781,synthetic
+PROD-0289,Standard Organic Products,Agriculture,Organic Products,5485.0,Dhingra-Murthy,Ludhiana,Punjab,India,False,3.0,59,222,19,eco friendly|high grade,2026-03-13T15:52:11.433822,synthetic
+PROD-0290,Standard Pulses,Agriculture,Pulses,8697.0,"Ramanathan, Loke and Jain",Ludhiana,Punjab,India,True,4.3,27,452,13,BIS approved|custom size,2026-03-13T15:52:11.433878,synthetic
+PROD-0291,Standard Pulses,Agriculture,Pulses,20585.0,"Divan, Maharaj and Trivedi",Nashik,Maharashtra,India,True,4.2,102,432,23,high grade|CE certified,2026-03-13T15:52:11.433927,synthetic
+PROD-0292,Heavy Duty Agro Equipment,Agriculture,Agro Equipment,7942.0,Ramakrishnan-Sankar,Rajkot,Gujarat,India,False,4.8,1,500,6,high grade|RoHS compliant,2026-03-13T15:52:11.433969,synthetic
+PROD-0293,Export Grade Rice,Agriculture,Rice,21141.0,Mand Inc,Rajkot,Gujarat,India,True,4.9,75,458,18,organic|BIS approved,2026-03-13T15:52:11.434011,synthetic
+PROD-0294,Standard Spices,Agriculture,Spices,6530.0,Dey Ltd,Ludhiana,Punjab,India,True,3.1,2,147,22,organic|heavy duty,2026-03-13T15:52:11.434081,synthetic
+PROD-0295,Premium Spices,Agriculture,Spices,9166.0,"Nagy, Tara and Randhawa",Indore,Madhya Pradesh,India,True,3.9,41,288,8,food grade|GMP certified,2026-03-13T15:52:11.434131,synthetic
+PROD-0296,Heavy Duty Organic Products,Agriculture,Organic Products,1191.0,"Bhavsar, Anne and Goda",Coimbatore,Tamil Nadu,India,False,3.1,13,404,22,CE certified|high grade,2026-03-13T15:52:11.434179,synthetic
+PROD-0297,Export Grade Spices,Agriculture,Spices,9622.0,Palla-Bawa,Mumbai,Maharashtra,India,False,4.8,66,387,19,high grade|food grade,2026-03-13T15:52:11.434221,synthetic
+PROD-0298,Premium Pulses,Agriculture,Pulses,4486.0,Swaminathan-Bandi,Kolkata,West Bengal,India,True,3.3,21,220,9,high grade|organic,2026-03-13T15:52:11.434264,synthetic
+PROD-0299,Heavy Duty Pulses,Agriculture,Pulses,7383.0,"Agarwal, Shanker and Sani",Bangalore,Karnataka,India,True,4.9,48,321,20,GMP certified|organic,2026-03-13T15:52:11.434315,synthetic
+PROD-0300,Heavy Duty Agro Equipment,Agriculture,Agro Equipment,6812.0,Sur-Goyal,Lucknow,Uttar Pradesh,India,True,4.9,24,82,14,high grade|RoHS compliant,2026-03-13T15:52:11.434353,synthetic
+PROD-0301,Heavy Duty Spices,Agriculture,Spices,1075.0,Sodhi-Pingle,Jaipur,Rajasthan,India,True,3.6,17,386,21,ISO certified|export quality,2026-03-13T15:52:11.434394,synthetic
+PROD-0302,Standard Rice,Agriculture,Rice,2897.0,Nadig-Vohra,Nagpur,Maharashtra,India,False,4.4,89,277,24,organic|ISO certified,2026-03-13T15:52:11.434438,synthetic
+PROD-0303,Export Grade Agro Equipment,Agriculture,Agro Equipment,12829.0,Morar LLC,Nashik,Maharashtra,India,True,3.6,31,43,4,heavy duty|high grade,2026-03-13T15:52:11.434482,synthetic
+PROD-0304,Standard Spices,Agriculture,Spices,7887.0,Tara-Om,Coimbatore,Tamil Nadu,India,False,3.8,3,360,24,RoHS compliant|BIS approved,2026-03-13T15:52:11.434527,synthetic
+PROD-0305,Export Grade Spices,Agriculture,Spices,9439.0,Kar-Boase,Nagpur,Maharashtra,India,False,3.1,11,421,8,organic|BIS approved,2026-03-13T15:52:11.434566,synthetic
+PROD-0306,Premium Organic Products,Agriculture,Organic Products,8668.0,Chakrabarti-Salvi,Jaipur,Rajasthan,India,True,3.2,11,149,22,organic|custom size,2026-03-13T15:52:11.434607,synthetic
+PROD-0307,Export Grade Rice,Agriculture,Rice,12084.0,Loyal-Sawhney,Delhi,Delhi,India,False,3.1,8,383,13,RoHS compliant|high grade,2026-03-13T15:52:11.434645,synthetic
+PROD-0308,Premium Pulses,Agriculture,Pulses,7457.0,Pingle-Mistry,Surat,Gujarat,India,True,4.5,71,212,21,high grade|heavy duty,2026-03-13T15:52:11.434682,synthetic
+PROD-0309,Premium Pulses,Agriculture,Pulses,3789.0,"Vasa, Tella and Bhargava",Bangalore,Karnataka,India,False,4.9,23,35,9,export quality|premium,2026-03-13T15:52:11.434722,synthetic
+PROD-0310,Standard Agro Equipment,Agriculture,Agro Equipment,6161.0,Chawla-Bera,Rajkot,Gujarat,India,False,3.5,12,100,11,eco friendly|RoHS compliant,2026-03-13T15:52:11.434758,synthetic
+PROD-0311,Standard Agro Equipment,Agriculture,Agro Equipment,12912.0,"Rajan, Mall and Dora",Pune,Maharashtra,India,True,3.7,10,3,11,premium|RoHS compliant,2026-03-13T15:52:11.434797,synthetic
+PROD-0312,Heavy Duty Organic Products,Agriculture,Organic Products,3919.0,"Dada, Chaudhary and Ganesan",Rajkot,Gujarat,India,False,3.9,13,283,4,heavy duty|GMP certified,2026-03-13T15:52:11.434963,synthetic
+PROD-0313,Heavy Duty Spices,Agriculture,Spices,2168.0,Sama Ltd,Kolkata,West Bengal,India,False,4.3,141,417,19,custom size|BIS approved,2026-03-13T15:52:11.435039,synthetic
+PROD-0314,Standard Agro Equipment,Agriculture,Agro Equipment,7402.0,More-Sura,Ludhiana,Punjab,India,True,3.4,164,149,5,eco friendly|high grade,2026-03-13T15:52:11.435115,synthetic
+PROD-0315,Standard Spices,Agriculture,Spices,4758.0,Mistry and Sons,Coimbatore,Tamil Nadu,India,False,4.6,26,264,5,eco friendly|heavy duty,2026-03-13T15:52:11.435162,synthetic
+PROD-0316,Standard Agro Equipment,Agriculture,Agro Equipment,6105.0,Sheth-Bansal,Bangalore,Karnataka,India,False,3.5,10,343,7,high grade|CE certified,2026-03-13T15:52:11.435227,synthetic
+PROD-0317,Heavy Duty Organic Products,Agriculture,Organic Products,8140.0,"Sarkar, Rajagopalan and Sampath",Jaipur,Rajasthan,India,True,4.1,13,301,21,export quality|high grade,2026-03-13T15:52:11.435274,synthetic
+PROD-0318,Heavy Duty Organic Products,Agriculture,Organic Products,3119.0,Bassi-Natarajan,Surat,Gujarat,India,True,4.0,30,72,15,heavy duty|premium,2026-03-13T15:52:11.435312,synthetic
+PROD-0319,Standard Agro Equipment,Agriculture,Agro Equipment,8119.0,Ghose-Goel,Delhi,Delhi,India,True,4.2,137,213,11,food grade|export quality,2026-03-13T15:52:11.435348,synthetic
+PROD-0320,Export Grade Organic Products,Agriculture,Organic Products,5895.0,Sastry-Oommen,Lucknow,Uttar Pradesh,India,True,3.1,24,323,17,ISO certified|custom size,2026-03-13T15:52:11.435384,synthetic
+PROD-0321,Premium Solvent,Chemicals,Solvent,23236.0,"Cherian, Gopal and Sharaf",Bangalore,Karnataka,India,False,4.5,4,242,16,heavy duty|premium,2026-03-13T15:52:11.435462,synthetic
+PROD-0322,Standard Adhesive,Chemicals,Adhesive,43866.0,Kumar-More,Indore,Madhya Pradesh,India,False,4.0,2,473,15,custom size|RoHS compliant,2026-03-13T15:52:11.435490,synthetic
+PROD-0323,Premium Fertilizer,Chemicals,Fertilizer,18443.0,"Singh, Radhakrishnan and Madan",Delhi,Delhi,India,True,4.7,20,77,20,export quality|heavy duty,2026-03-13T15:52:11.435519,synthetic
+PROD-0324,Premium Cleaning Agent,Chemicals,Cleaning Agent,68571.0,Maharaj Inc,Lucknow,Uttar Pradesh,India,True,4.3,121,1,25,GMP certified|RoHS compliant,2026-03-13T15:52:11.435545,synthetic
+PROD-0325,Export Grade Cleaning Agent,Chemicals,Cleaning Agent,9372.0,Varkey LLC,Jaipur,Rajasthan,India,True,4.6,52,302,24,RoHS compliant|food grade,2026-03-13T15:52:11.435570,synthetic
+PROD-0326,Standard Solvent,Chemicals,Solvent,19494.0,Nagarajan-Aggarwal,Kolkata,West Bengal,India,False,3.2,31,132,7,ISO certified|food grade,2026-03-13T15:52:11.435597,synthetic
+PROD-0327,Premium Solvent,Chemicals,Solvent,25245.0,Munshi-Jani,Rajkot,Gujarat,India,True,3.4,57,55,5,BIS approved|GMP certified,2026-03-13T15:52:11.435621,synthetic
+PROD-0328,Heavy Duty Pigment,Chemicals,Pigment,11036.0,Dube-Dhar,Kolkata,West Bengal,India,True,5.0,15,283,18,eco friendly|heavy duty,2026-03-13T15:52:11.435645,synthetic
+PROD-0329,Heavy Duty Cleaning Agent,Chemicals,Cleaning Agent,24737.0,Kalita Ltd,Pune,Maharashtra,India,True,4.5,15,443,22,export quality|food grade,2026-03-13T15:52:11.435670,synthetic
+PROD-0330,Heavy Duty Adhesive,Chemicals,Adhesive,7327.0,"Nanda, Sule and Kulkarni",Ahmedabad,Gujarat,India,False,4.2,29,200,21,ISO certified|export quality,2026-03-13T15:52:11.435698,synthetic
+PROD-0331,Premium Fertilizer,Chemicals,Fertilizer,20288.0,Srivastava PLC,Indore,Madhya Pradesh,India,True,3.4,32,365,20,ISO certified|heavy duty,2026-03-13T15:52:11.435724,synthetic
+PROD-0332,Heavy Duty Adhesive,Chemicals,Adhesive,20133.0,Agrawal and Sons,Nagpur,Maharashtra,India,True,4.6,21,315,6,GMP certified|ISO certified,2026-03-13T15:52:11.435749,synthetic
+PROD-0333,Export Grade Fertilizer,Chemicals,Fertilizer,10218.0,"Kar, Mani and Bandi",Pune,Maharashtra,India,True,3.8,29,378,23,export quality|RoHS compliant,2026-03-13T15:52:11.435777,synthetic
+PROD-0334,Heavy Duty Pigment,Chemicals,Pigment,45207.0,"Vora, Kulkarni and Oza",Coimbatore,Tamil Nadu,India,True,4.6,17,3,9,heavy duty|BIS approved,2026-03-13T15:52:11.435807,synthetic
+PROD-0335,Heavy Duty Solvent,Chemicals,Solvent,26292.0,Rajan-Varkey,Coimbatore,Tamil Nadu,India,False,4.6,91,356,15,BIS approved|custom size,2026-03-13T15:52:11.435832,synthetic
+PROD-0336,Premium Fertilizer,Chemicals,Fertilizer,20137.0,"Prabhu, Bains and Bala",Lucknow,Uttar Pradesh,India,True,3.5,6,113,22,food grade|premium,2026-03-13T15:52:11.435866,synthetic
+PROD-0337,Premium Pigment,Chemicals,Pigment,18569.0,Shenoy-Karan,Ludhiana,Punjab,India,False,3.5,9,384,11,export quality|high grade,2026-03-13T15:52:11.435891,synthetic
+PROD-0338,Heavy Duty Fertilizer,Chemicals,Fertilizer,21275.0,Raja Group,Nashik,Maharashtra,India,True,4.5,59,378,7,premium|food grade,2026-03-13T15:52:11.435915,synthetic
+PROD-0339,Standard Pigment,Chemicals,Pigment,13498.0,Shenoy LLC,Ahmedabad,Gujarat,India,False,3.7,38,41,22,GMP certified|eco friendly,2026-03-13T15:52:11.435939,synthetic
+PROD-0340,Premium Solvent,Chemicals,Solvent,49314.0,Tandon-Tiwari,Kolkata,West Bengal,India,False,3.7,126,141,16,heavy duty|high grade,2026-03-13T15:52:11.435963,synthetic
+PROD-0341,Premium Adhesive,Chemicals,Adhesive,9082.0,Chand Group,Surat,Gujarat,India,True,3.8,2,398,6,eco friendly|export quality,2026-03-13T15:52:11.435987,synthetic
+PROD-0342,Premium Cleaning Agent,Chemicals,Cleaning Agent,18746.0,"Radhakrishnan, Biswas and Dasgupta",Rajkot,Gujarat,India,False,3.8,5,442,9,heavy duty|high grade,2026-03-13T15:52:11.436015,synthetic
+PROD-0343,Export Grade Fertilizer,Chemicals,Fertilizer,17175.0,Shukla-Kunda,Surat,Gujarat,India,True,4.4,3,144,15,heavy duty|custom size,2026-03-13T15:52:11.436039,synthetic
+PROD-0344,Heavy Duty Cleaning Agent,Chemicals,Cleaning Agent,88343.0,"Mahajan, Ganguly and Bose",Bangalore,Karnataka,India,False,4.1,50,410,24,heavy duty|eco friendly,2026-03-13T15:52:11.436100,synthetic
+PROD-0345,Heavy Duty Solvent,Chemicals,Solvent,9211.0,Bhagat Inc,Ludhiana,Punjab,India,False,3.6,27,204,4,food grade|heavy duty,2026-03-13T15:52:11.436127,synthetic
+PROD-0346,Premium Fertilizer,Chemicals,Fertilizer,50911.0,Datta-Reddy,Mumbai,Maharashtra,India,True,3.7,10,478,9,CE certified|ISO certified,2026-03-13T15:52:11.436152,synthetic
+PROD-0347,Standard Solvent,Chemicals,Solvent,11816.0,Handa-Grover,Jaipur,Rajasthan,India,True,4.3,931,146,12,CE certified|GMP certified,2026-03-13T15:52:11.436175,synthetic
+PROD-0348,Premium Adhesive,Chemicals,Adhesive,44215.0,Agate LLC,Coimbatore,Tamil Nadu,India,True,3.6,27,86,21,RoHS compliant|CE certified,2026-03-13T15:52:11.436199,synthetic
+PROD-0349,Premium Cleaning Agent,Chemicals,Cleaning Agent,42862.0,Mani Group,Jaipur,Rajasthan,India,True,3.7,6,364,9,custom size|GMP certified,2026-03-13T15:52:11.436221,synthetic
+PROD-0350,Standard Pigment,Chemicals,Pigment,23561.0,Peri-Amble,Jaipur,Rajasthan,India,True,3.0,80,482,24,food grade|RoHS compliant,2026-03-13T15:52:11.436246,synthetic
+PROD-0351,Premium Fertilizer,Chemicals,Fertilizer,13432.0,Samra PLC,Delhi,Delhi,India,False,3.9,2,44,21,BIS approved|organic,2026-03-13T15:52:11.436271,synthetic
+PROD-0352,Standard Fertilizer,Chemicals,Fertilizer,40161.0,"Cheema, Wagle and Bali",Ahmedabad,Gujarat,India,True,4.7,60,244,15,high grade|organic,2026-03-13T15:52:11.436298,synthetic
+PROD-0353,Export Grade Adhesive,Chemicals,Adhesive,25510.0,Krish-Bawa,Coimbatore,Tamil Nadu,India,False,4.3,26,328,18,organic|CE certified,2026-03-13T15:52:11.436322,synthetic
+PROD-0354,Heavy Duty Cleaning Agent,Chemicals,Cleaning Agent,14820.0,"Bajaj, Hegde and Rattan",Lucknow,Uttar Pradesh,India,True,3.5,10,5,23,eco friendly|RoHS compliant,2026-03-13T15:52:11.436351,synthetic
+PROD-0355,Standard Solvent,Chemicals,Solvent,136095.0,More-Dhawan,Surat,Gujarat,India,False,4.1,16,367,24,GMP certified|BIS approved,2026-03-13T15:52:11.436376,synthetic
+PROD-0356,Standard Adhesive,Chemicals,Adhesive,14744.0,"Narang, Chander and Chaudhary",Indore,Madhya Pradesh,India,True,4.6,43,140,10,GMP certified|food grade,2026-03-13T15:52:11.436403,synthetic
+PROD-0357,Standard Pigment,Chemicals,Pigment,9890.0,"Srinivas, Lalla and Kulkarni",Coimbatore,Tamil Nadu,India,True,3.2,16,359,20,eco friendly|premium,2026-03-13T15:52:11.436430,synthetic
+PROD-0358,Export Grade Solvent,Chemicals,Solvent,15888.0,Uppal-Gill,Pune,Maharashtra,India,False,3.5,4,176,14,organic|eco friendly,2026-03-13T15:52:11.436454,synthetic
+PROD-0359,Premium Adhesive,Chemicals,Adhesive,29561.0,Khosla Inc,Pune,Maharashtra,India,False,4.9,3,99,9,BIS approved|ISO certified,2026-03-13T15:52:11.436479,synthetic
+PROD-0360,Premium Fertilizer,Chemicals,Fertilizer,4700.0,Patla-Mani,Delhi,Delhi,India,True,5.0,16,160,11,heavy duty|GMP certified,2026-03-13T15:52:11.436503,synthetic
+PROD-0361,Premium Solvent,Chemicals,Solvent,47133.0,Kothari-Kibe,Rajkot,Gujarat,India,True,4.3,52,58,8,GMP certified|BIS approved,2026-03-13T15:52:11.436527,synthetic
+PROD-0362,Premium Solvent,Chemicals,Solvent,11901.0,Sama PLC,Pune,Maharashtra,India,True,3.5,70,80,12,RoHS compliant|export quality,2026-03-13T15:52:11.436550,synthetic
+PROD-0363,Heavy Duty Fertilizer,Chemicals,Fertilizer,22353.0,Mohan-Biswas,Ahmedabad,Gujarat,India,False,5.0,26,331,5,food grade|high grade,2026-03-13T15:52:11.436574,synthetic
+PROD-0364,Heavy Duty Solvent,Chemicals,Solvent,11451.0,"Grover, Bahri and Chander",Ludhiana,Punjab,India,False,3.9,2,184,24,heavy duty|organic,2026-03-13T15:52:11.436604,synthetic
+PROD-0365,Heavy Duty Solvent,Chemicals,Solvent,21573.0,"Sura, Vala and Chadha",Nashik,Maharashtra,India,True,4.0,27,166,24,eco friendly|organic,2026-03-13T15:52:11.436631,synthetic
+PROD-0366,Premium Cleaning Agent,Chemicals,Cleaning Agent,80174.0,Grewal Group,Indore,Madhya Pradesh,India,True,3.9,84,233,1,RoHS compliant|GMP certified,2026-03-13T15:52:11.436655,synthetic
+PROD-0367,Standard Adhesive,Chemicals,Adhesive,28954.0,"Chandran, Khare and Gill",Coimbatore,Tamil Nadu,India,True,3.1,2,393,18,heavy duty|custom size,2026-03-13T15:52:11.436683,synthetic
+PROD-0368,Premium Pigment,Chemicals,Pigment,18629.0,Nath Ltd,Surat,Gujarat,India,True,3.1,44,448,2,premium|export quality,2026-03-13T15:52:11.436706,synthetic
+PROD-0369,Export Grade Fertilizer,Chemicals,Fertilizer,6194.0,"Bhatia, Dash and Thaman",Lucknow,Uttar Pradesh,India,False,4.1,35,188,8,custom size|food grade,2026-03-13T15:52:11.436733,synthetic
+PROD-0370,Export Grade Solvent,Chemicals,Solvent,47158.0,"Varty, Pillay and Bava",Delhi,Delhi,India,False,4.7,16,185,18,food grade|BIS approved,2026-03-13T15:52:11.436758,synthetic
+PROD-0371,Premium Pigment,Chemicals,Pigment,31439.0,"Datta, Rajan and Jain",Indore,Madhya Pradesh,India,False,3.2,5,52,24,premium|high grade,2026-03-13T15:52:11.436786,synthetic
+PROD-0372,Standard Fertilizer,Chemicals,Fertilizer,6552.0,Nadig Group,Jaipur,Rajasthan,India,True,4.1,175,296,12,GMP certified|eco friendly,2026-03-13T15:52:11.436810,synthetic
+PROD-0373,Standard Adhesive,Chemicals,Adhesive,42009.0,"Mistry, Varkey and Bobal",Rajkot,Gujarat,India,True,4.0,40,308,15,CE certified|RoHS compliant,2026-03-13T15:52:11.436837,synthetic
+PROD-0374,Export Grade Pigment,Chemicals,Pigment,50033.0,Wagle-Parmar,Coimbatore,Tamil Nadu,India,False,3.6,6,193,25,high grade|food grade,2026-03-13T15:52:11.436868,synthetic
+PROD-0375,Export Grade Pigment,Chemicals,Pigment,70390.0,Narula-Chanda,Surat,Gujarat,India,True,3.1,8,396,23,organic|high grade,2026-03-13T15:52:11.436893,synthetic
+PROD-0376,Premium Cleaning Agent,Chemicals,Cleaning Agent,28042.0,Bakshi PLC,Coimbatore,Tamil Nadu,India,True,3.7,6,299,8,premium|organic,2026-03-13T15:52:11.436916,synthetic
+PROD-0377,Standard Pigment,Chemicals,Pigment,8795.0,"Sama, Modi and Rattan",Ludhiana,Punjab,India,False,4.4,41,423,23,food grade|custom size,2026-03-13T15:52:11.436944,synthetic
+PROD-0378,Export Grade Solvent,Chemicals,Solvent,26954.0,Gaba Ltd,Indore,Madhya Pradesh,India,True,3.1,47,419,14,BIS approved|export quality,2026-03-13T15:52:11.436967,synthetic
+PROD-0379,Premium Fertilizer,Chemicals,Fertilizer,27089.0,"Kale, Agrawal and Bassi",Indore,Madhya Pradesh,India,True,4.1,6,79,2,GMP certified|food grade,2026-03-13T15:52:11.436995,synthetic
+PROD-0380,Premium Adhesive,Chemicals,Adhesive,50616.0,"Uppal, Rao and Dutta",Jaipur,Rajasthan,India,True,3.6,15,43,16,custom size|food grade,2026-03-13T15:52:11.437021,synthetic
+PROD-0381,Export Grade Cleaning Agent,Chemicals,Cleaning Agent,19223.0,Sahni and Sons,Mumbai,Maharashtra,India,False,3.3,3,250,13,GMP certified|custom size,2026-03-13T15:52:11.437058,synthetic
+PROD-0382,Standard Cleaning Agent,Chemicals,Cleaning Agent,40836.0,"Sama, Sarraf and Mohanty",Ahmedabad,Gujarat,India,True,3.5,12,295,3,export quality|GMP certified,2026-03-13T15:52:11.437108,synthetic
+PROD-0383,Heavy Duty Adhesive,Chemicals,Adhesive,17794.0,Nanda-Choudhury,Jaipur,Rajasthan,India,True,3.0,17,23,8,premium|GMP certified,2026-03-13T15:52:11.437148,synthetic
+PROD-0384,Premium Fertilizer,Chemicals,Fertilizer,8476.0,Uppal-Varma,Pune,Maharashtra,India,True,4.5,5,385,9,high grade|eco friendly,2026-03-13T15:52:11.437175,synthetic
+PROD-0385,Export Grade Fertilizer,Chemicals,Fertilizer,50115.0,Pal Ltd,Kolkata,West Bengal,India,True,4.3,2,317,9,ISO certified|eco friendly,2026-03-13T15:52:11.437200,synthetic
+PROD-0386,Heavy Duty Solvent,Chemicals,Solvent,18034.0,"Rajagopal, Bora and Ahluwalia",Nagpur,Maharashtra,India,False,4.3,8,364,4,CE certified|eco friendly,2026-03-13T15:52:11.437229,synthetic
+PROD-0387,Export Grade Cleaning Agent,Chemicals,Cleaning Agent,23583.0,Chanda PLC,Indore,Madhya Pradesh,India,True,4.4,9,382,6,ISO certified|CE certified,2026-03-13T15:52:11.437261,synthetic
+PROD-0388,Heavy Duty Pigment,Chemicals,Pigment,16824.0,Chandran and Sons,Nagpur,Maharashtra,India,False,4.3,23,78,11,BIS approved|GMP certified,2026-03-13T15:52:11.437286,synthetic
+PROD-0389,Standard Solvent,Chemicals,Solvent,43189.0,Dass Group,Bangalore,Karnataka,India,True,4.1,16,310,11,eco friendly|high grade,2026-03-13T15:52:11.437310,synthetic
+PROD-0390,Standard Fertilizer,Chemicals,Fertilizer,36846.0,Mann and Sons,Bangalore,Karnataka,India,False,3.6,48,70,14,RoHS compliant|heavy duty,2026-03-13T15:52:11.437334,synthetic
+PROD-0391,Premium Cleaning Agent,Chemicals,Cleaning Agent,51731.0,"Srinivas, Bora and Purohit",Nagpur,Maharashtra,India,True,4.7,78,382,21,food grade|organic,2026-03-13T15:52:11.437362,synthetic
+PROD-0392,Heavy Duty Fertilizer,Chemicals,Fertilizer,11534.0,Sengupta Inc,Bangalore,Karnataka,India,True,4.2,25,14,12,export quality|food grade,2026-03-13T15:52:11.437386,synthetic
+PROD-0393,Standard Adhesive,Chemicals,Adhesive,19786.0,"Sidhu, Sane and Basu",Ludhiana,Punjab,India,False,4.0,7,17,14,RoHS compliant|ISO certified,2026-03-13T15:52:11.437413,synthetic
+PROD-0394,Standard Pigment,Chemicals,Pigment,49503.0,Batra Inc,Nashik,Maharashtra,India,False,3.1,88,167,15,premium|BIS approved,2026-03-13T15:52:11.437437,synthetic
+PROD-0395,Heavy Duty Solvent,Chemicals,Solvent,51961.0,Nanda-Mallick,Jaipur,Rajasthan,India,True,4.9,27,329,23,RoHS compliant|ISO certified,2026-03-13T15:52:11.437461,synthetic
+PROD-0396,Premium Solvent,Chemicals,Solvent,15232.0,Sura-Devi,Coimbatore,Tamil Nadu,India,False,3.5,2493,21,18,BIS approved|high grade,2026-03-13T15:52:11.437484,synthetic
+PROD-0397,Heavy Duty Solvent,Chemicals,Solvent,10463.0,"Talwar, Lalla and Murty",Ludhiana,Punjab,India,False,3.6,7,471,2,food grade|high grade,2026-03-13T15:52:11.437511,synthetic
+PROD-0398,Premium Fertilizer,Chemicals,Fertilizer,19415.0,"Varma, Puri and Ranganathan",Nashik,Maharashtra,India,False,3.2,32,212,11,eco friendly|ISO certified,2026-03-13T15:52:11.437537,synthetic
+PROD-0399,Standard Adhesive,Chemicals,Adhesive,34420.0,"Natt, Sharma and Bala",Bangalore,Karnataka,India,False,3.2,7,365,6,food grade|RoHS compliant,2026-03-13T15:52:11.437563,synthetic
+PROD-0400,Heavy Duty Solvent,Chemicals,Solvent,8547.0,Kara-Mannan,Delhi,Delhi,India,True,4.4,26,282,13,ISO certified|heavy duty,2026-03-13T15:52:11.437587,synthetic
+PROD-0401,Standard Bubble Wrap,Packaging,Bubble Wrap,31895.0,"Saran, Raj and Agarwal",Nashik,Maharashtra,India,True,3.3,4,493,15,organic|GMP certified,2026-03-13T15:52:11.437620,synthetic
+PROD-0402,Export Grade Corrugated Box,Packaging,Corrugated Box,24259.0,"Comar, Nair and Mandal",Bangalore,Karnataka,India,True,4.2,18,41,20,custom size|ISO certified,2026-03-13T15:52:11.437651,synthetic
+PROD-0403,Standard BOPP Film,Packaging,BOPP Film,10788.0,Chauhan and Sons,Ahmedabad,Gujarat,India,True,3.3,27,438,2,GMP certified|custom size,2026-03-13T15:52:11.437677,synthetic
+PROD-0404,Standard BOPP Film,Packaging,BOPP Film,8473.0,"Ahuja, Dey and Mangat",Indore,Madhya Pradesh,India,True,3.6,60,294,18,heavy duty|eco friendly,2026-03-13T15:52:11.437705,synthetic
+PROD-0405,Heavy Duty BOPP Film,Packaging,BOPP Film,20075.0,Batra-Bir,Rajkot,Gujarat,India,True,4.8,307,432,18,export quality|organic,2026-03-13T15:52:11.437728,synthetic
+PROD-0406,Standard PET Bottle,Packaging,PET Bottle,16422.0,Taneja-Aggarwal,Lucknow,Uttar Pradesh,India,False,4.2,18,479,23,organic|BIS approved,2026-03-13T15:52:11.437753,synthetic
+PROD-0407,Heavy Duty Bubble Wrap,Packaging,Bubble Wrap,11269.0,Zachariah-Pillay,Kolkata,West Bengal,India,False,4.2,19,255,16,RoHS compliant|heavy duty,2026-03-13T15:52:11.437777,synthetic
+PROD-0408,Standard BOPP Film,Packaging,BOPP Film,14606.0,Dutt and Sons,Nashik,Maharashtra,India,True,3.0,26,435,7,RoHS compliant|custom size,2026-03-13T15:52:11.437799,synthetic
+PROD-0409,Standard Jute Bag,Packaging,Jute Bag,9387.0,Sengupta PLC,Jaipur,Rajasthan,India,True,3.4,2,158,10,high grade|RoHS compliant,2026-03-13T15:52:11.437822,synthetic
+PROD-0410,Export Grade Corrugated Box,Packaging,Corrugated Box,11062.0,"Dhawan, Prasad and Badal",Pune,Maharashtra,India,False,4.2,11,345,16,eco friendly|ISO certified,2026-03-13T15:52:11.437860,synthetic
+PROD-0411,Heavy Duty PET Bottle,Packaging,PET Bottle,22882.0,Mukherjee Ltd,Nagpur,Maharashtra,India,True,4.6,22,348,11,high grade|RoHS compliant,2026-03-13T15:52:11.437885,synthetic
+PROD-0412,Heavy Duty PET Bottle,Packaging,PET Bottle,28715.0,Arora Inc,Mumbai,Maharashtra,India,True,3.3,58,193,21,high grade|heavy duty,2026-03-13T15:52:11.437911,synthetic
+PROD-0413,Heavy Duty BOPP Film,Packaging,BOPP Film,16845.0,Agarwal-Randhawa,Kolkata,West Bengal,India,False,3.6,3,255,8,CE certified|eco friendly,2026-03-13T15:52:11.437936,synthetic
+PROD-0414,Premium Bubble Wrap,Packaging,Bubble Wrap,14014.0,Sem Ltd,Indore,Madhya Pradesh,India,True,3.1,10,260,1,RoHS compliant|eco friendly,2026-03-13T15:52:11.437960,synthetic
+PROD-0415,Export Grade BOPP Film,Packaging,BOPP Film,11930.0,"Kamdar, Aurora and Bora",Nashik,Maharashtra,India,False,4.0,38,447,4,high grade|GMP certified,2026-03-13T15:52:11.437989,synthetic
+PROD-0416,Premium PET Bottle,Packaging,PET Bottle,43317.0,Nazareth-Gala,Bangalore,Karnataka,India,True,4.9,51,45,11,eco friendly|ISO certified,2026-03-13T15:52:11.438013,synthetic
+PROD-0417,Premium BOPP Film,Packaging,BOPP Film,102944.0,Mohan-Bhatti,Delhi,Delhi,India,True,3.6,65,99,10,organic|high grade,2026-03-13T15:52:11.438038,synthetic
+PROD-0418,Standard Jute Bag,Packaging,Jute Bag,33830.0,Batta-Rege,Pune,Maharashtra,India,True,3.0,33,106,18,CE certified|high grade,2026-03-13T15:52:11.438436,synthetic
+PROD-0419,Heavy Duty Bubble Wrap,Packaging,Bubble Wrap,4639.0,Krishnan-Sarma,Pune,Maharashtra,India,True,3.3,21,15,16,GMP certified|ISO certified,2026-03-13T15:52:11.438512,synthetic
+PROD-0420,Standard Jute Bag,Packaging,Jute Bag,8421.0,Suri LLC,Delhi,Delhi,India,False,4.8,47,229,20,CE certified|organic,2026-03-13T15:52:11.438545,synthetic
+PROD-0421,Premium PET Bottle,Packaging,PET Bottle,59515.0,"Keer, Gandhi and Madan",Pune,Maharashtra,India,False,4.5,18,417,23,eco friendly|export quality,2026-03-13T15:52:11.438578,synthetic
+PROD-0422,Export Grade Bubble Wrap,Packaging,Bubble Wrap,58683.0,Bhandari and Sons,Lucknow,Uttar Pradesh,India,True,4.9,9,94,23,GMP certified|CE certified,2026-03-13T15:52:11.438608,synthetic
+PROD-0423,Export Grade Bubble Wrap,Packaging,Bubble Wrap,22928.0,Dyal Ltd,Ludhiana,Punjab,India,True,4.0,54,179,20,custom size|heavy duty,2026-03-13T15:52:11.438635,synthetic
+PROD-0424,Premium Corrugated Box,Packaging,Corrugated Box,15572.0,Hari Ltd,Coimbatore,Tamil Nadu,India,True,4.3,72,206,19,BIS approved|premium,2026-03-13T15:52:11.438660,synthetic
+PROD-0425,Export Grade PET Bottle,Packaging,PET Bottle,300000.0,Agrawal Ltd,Kolkata,West Bengal,India,True,3.4,40,223,19,RoHS compliant|CE certified,2026-03-13T15:52:11.438689,synthetic
+PROD-0426,Export Grade PET Bottle,Packaging,PET Bottle,6300.0,Sathe and Sons,Coimbatore,Tamil Nadu,India,True,4.2,13,228,6,organic|BIS approved,2026-03-13T15:52:11.438719,synthetic
+PROD-0427,Export Grade BOPP Film,Packaging,BOPP Film,44614.0,Edwin-Butala,Delhi,Delhi,India,False,3.1,10,298,25,GMP certified|ISO certified,2026-03-13T15:52:11.438744,synthetic
+PROD-0428,Heavy Duty PET Bottle,Packaging,PET Bottle,36675.0,"Dora, Chaudhry and Barad",Ludhiana,Punjab,India,True,4.2,2,163,10,custom size|GMP certified,2026-03-13T15:52:11.438773,synthetic
+PROD-0429,Standard Jute Bag,Packaging,Jute Bag,33482.0,Narang Group,Surat,Gujarat,India,False,3.1,14,321,11,food grade|BIS approved,2026-03-13T15:52:11.438799,synthetic
+PROD-0430,Standard Jute Bag,Packaging,Jute Bag,21883.0,Ben Inc,Jaipur,Rajasthan,India,True,3.4,0,431,14,heavy duty|organic,2026-03-13T15:52:11.438823,synthetic
+PROD-0431,Standard PET Bottle,Packaging,PET Bottle,23714.0,"Nazareth, Dyal and Manda",Indore,Madhya Pradesh,India,True,4.3,14,404,23,custom size|BIS approved,2026-03-13T15:52:11.438859,synthetic
+PROD-0432,Export Grade PET Bottle,Packaging,PET Bottle,21972.0,Mander-Jhaveri,Kolkata,West Bengal,India,True,3.5,17,256,24,premium|food grade,2026-03-13T15:52:11.438884,synthetic
+PROD-0433,Heavy Duty Bubble Wrap,Packaging,Bubble Wrap,18706.0,Narasimhan Group,Coimbatore,Tamil Nadu,India,True,3.1,19,298,16,food grade|export quality,2026-03-13T15:52:11.438908,synthetic
+PROD-0434,Premium BOPP Film,Packaging,BOPP Film,50087.0,"Muni, Manda and Ravel",Bangalore,Karnataka,India,True,4.2,4,340,22,export quality|GMP certified,2026-03-13T15:52:11.438936,synthetic
+PROD-0435,Premium BOPP Film,Packaging,BOPP Film,44413.0,Char-Kibe,Nagpur,Maharashtra,India,False,4.1,3,464,16,custom size|food grade,2026-03-13T15:52:11.438960,synthetic
+PROD-0436,Heavy Duty Jute Bag,Packaging,Jute Bag,17459.0,Boase-Sharma,Pune,Maharashtra,India,False,4.1,3,87,19,ISO certified|GMP certified,2026-03-13T15:52:11.438984,synthetic
+PROD-0437,Standard BOPP Film,Packaging,BOPP Film,6954.0,"Chokshi, Sodhi and Chatterjee",Surat,Gujarat,India,True,4.7,11,144,9,organic|ISO certified,2026-03-13T15:52:11.439012,synthetic
+PROD-0438,Standard Corrugated Box,Packaging,Corrugated Box,119578.0,Raval PLC,Rajkot,Gujarat,India,False,3.7,10,271,2,CE certified|export quality,2026-03-13T15:52:11.439036,synthetic
+PROD-0439,Export Grade BOPP Film,Packaging,BOPP Film,10294.0,Balan Inc,Bangalore,Karnataka,India,True,3.9,28,376,12,ISO certified|GMP certified,2026-03-13T15:52:11.439096,synthetic
+PROD-0440,Export Grade Corrugated Box,Packaging,Corrugated Box,7789.0,"Kumar, Bhattacharyya and Bhatti",Surat,Gujarat,India,True,4.5,61,195,22,food grade|BIS approved,2026-03-13T15:52:11.439128,synthetic
+PROD-0441,Premium Bubble Wrap,Packaging,Bubble Wrap,19688.0,"Nagi, Kaul and Raman",Lucknow,Uttar Pradesh,India,True,4.1,2,313,21,organic|CE certified,2026-03-13T15:52:11.439158,synthetic
+PROD-0442,Export Grade Bubble Wrap,Packaging,Bubble Wrap,42762.0,"Wadhwa, Subramaniam and Hayre",Surat,Gujarat,India,True,4.4,3,395,7,high grade|CE certified,2026-03-13T15:52:11.439185,synthetic
+PROD-0443,Export Grade PET Bottle,Packaging,PET Bottle,18952.0,"Dave, Dhingra and Sengupta",Nagpur,Maharashtra,India,True,4.5,26,305,22,premium|custom size,2026-03-13T15:52:11.439214,synthetic
+PROD-0444,Standard Corrugated Box,Packaging,Corrugated Box,33885.0,"Bora, Bhargava and Ramachandran",Nagpur,Maharashtra,India,True,4.5,94,95,4,food grade|heavy duty,2026-03-13T15:52:11.439242,synthetic
+PROD-0445,Export Grade Bubble Wrap,Packaging,Bubble Wrap,12035.0,"Walia, Balan and Sahni",Surat,Gujarat,India,False,3.6,4,395,25,CE certified|organic,2026-03-13T15:52:11.439267,synthetic
+PROD-0446,Export Grade Corrugated Box,Packaging,Corrugated Box,17681.0,Chatterjee Group,Bangalore,Karnataka,India,True,3.1,71,226,3,eco friendly|premium,2026-03-13T15:52:11.439290,synthetic
+PROD-0447,Standard Jute Bag,Packaging,Jute Bag,10274.0,"Nagy, Khatri and Agrawal",Kolkata,West Bengal,India,True,3.9,26,227,23,organic|export quality,2026-03-13T15:52:11.439316,synthetic
+PROD-0448,Premium Corrugated Box,Packaging,Corrugated Box,24273.0,Bawa-Loke,Mumbai,Maharashtra,India,False,4.3,4,464,13,custom size|ISO certified,2026-03-13T15:52:11.439341,synthetic
+PROD-0449,Premium Jute Bag,Packaging,Jute Bag,23293.0,Varma Group,Coimbatore,Tamil Nadu,India,True,3.0,18,479,12,CE certified|GMP certified,2026-03-13T15:52:11.439365,synthetic
+PROD-0450,Heavy Duty Jute Bag,Packaging,Jute Bag,33667.0,"Dhar, Tella and Sastry",Surat,Gujarat,India,True,3.9,95,91,18,ISO certified|BIS approved,2026-03-13T15:52:11.439391,synthetic
+PROD-0451,Premium PET Bottle,Packaging,PET Bottle,15578.0,Tandon PLC,Nagpur,Maharashtra,India,False,3.7,1,377,7,heavy duty|ISO certified,2026-03-13T15:52:11.439415,synthetic
+PROD-0452,Export Grade Corrugated Box,Packaging,Corrugated Box,51384.0,Sahota-Mane,Ahmedabad,Gujarat,India,True,4.6,36,495,15,ISO certified|RoHS compliant,2026-03-13T15:52:11.439438,synthetic
+PROD-0453,Export Grade Corrugated Box,Packaging,Corrugated Box,11025.0,"Morar, Rama and Balasubramanian",Pune,Maharashtra,India,True,4.6,37,348,18,heavy duty|food grade,2026-03-13T15:52:11.439465,synthetic
+PROD-0454,Export Grade PET Bottle,Packaging,PET Bottle,5915.0,Devi-Gupta,Kolkata,West Bengal,India,False,4.2,4,8,6,GMP certified|ISO certified,2026-03-13T15:52:11.439489,synthetic
+PROD-0455,Standard Bubble Wrap,Packaging,Bubble Wrap,39889.0,"Rege, Lalla and Palla",Nashik,Maharashtra,India,False,3.1,42,305,20,premium|export quality,2026-03-13T15:52:11.439516,synthetic
+PROD-0456,Export Grade PET Bottle,Packaging,PET Bottle,14313.0,Gupta-Zachariah,Ludhiana,Punjab,India,True,5.0,24,429,7,RoHS compliant|ISO certified,2026-03-13T15:52:11.439540,synthetic
+PROD-0457,Standard PET Bottle,Packaging,PET Bottle,18948.0,"Sekhon, Guha and Khanna",Kolkata,West Bengal,India,False,3.3,14,125,19,ISO certified|heavy duty,2026-03-13T15:52:11.439567,synthetic
+PROD-0458,Export Grade BOPP Film,Packaging,BOPP Film,20018.0,Chandra PLC,Delhi,Delhi,India,True,3.0,26,356,25,eco friendly|food grade,2026-03-13T15:52:11.439592,synthetic
+PROD-0459,Export Grade PET Bottle,Packaging,PET Bottle,12511.0,Ahuja LLC,Bangalore,Karnataka,India,True,4.9,25,93,23,eco friendly|custom size,2026-03-13T15:52:11.439623,synthetic
+PROD-0460,Premium Bubble Wrap,Packaging,Bubble Wrap,16238.0,Sani Group,Delhi,Delhi,India,True,4.7,16,107,9,ISO certified|premium,2026-03-13T15:52:11.439649,synthetic
+PROD-0461,Premium PET Bottle,Packaging,PET Bottle,23473.0,Sathe-Dora,Delhi,Delhi,India,True,3.7,9,316,25,eco friendly|ISO certified,2026-03-13T15:52:11.439672,synthetic
+PROD-0462,Premium Corrugated Box,Packaging,Corrugated Box,52424.0,"Doctor, Anand and Narasimhan",Delhi,Delhi,India,True,3.5,15,215,7,food grade|GMP certified,2026-03-13T15:52:11.439699,synthetic
+PROD-0463,Standard Bubble Wrap,Packaging,Bubble Wrap,16154.0,Madan Ltd,Nashik,Maharashtra,India,True,4.5,67,113,3,eco friendly|custom size,2026-03-13T15:52:11.439722,synthetic
+PROD-0464,Export Grade Corrugated Box,Packaging,Corrugated Box,45843.0,"Tella, Ranganathan and Wali",Lucknow,Uttar Pradesh,India,True,3.7,18,184,9,premium|CE certified,2026-03-13T15:52:11.439750,synthetic
+PROD-0465,Standard Corrugated Box,Packaging,Corrugated Box,32427.0,"Joshi, Barad and Singh",Bangalore,Karnataka,India,True,3.9,9,113,10,custom size|heavy duty,2026-03-13T15:52:11.439776,synthetic
+PROD-0466,Standard BOPP Film,Packaging,BOPP Film,91639.0,Kade-Chada,Ludhiana,Punjab,India,True,4.7,0,303,16,eco friendly|organic,2026-03-13T15:52:11.439799,synthetic
+PROD-0467,Heavy Duty Jute Bag,Packaging,Jute Bag,37665.0,Krishnamurthy-Kumer,Mumbai,Maharashtra,India,True,3.4,16,241,24,RoHS compliant|high grade,2026-03-13T15:52:11.439824,synthetic
+PROD-0468,Premium Jute Bag,Packaging,Jute Bag,26589.0,"Kapur, Narula and Keer",Mumbai,Maharashtra,India,True,3.5,22,375,14,premium|heavy duty,2026-03-13T15:52:11.439857,synthetic
+PROD-0469,Premium Bubble Wrap,Packaging,Bubble Wrap,10382.0,Sachdev-Shenoy,Pune,Maharashtra,India,False,3.9,1,95,12,GMP certified|eco friendly,2026-03-13T15:52:11.439883,synthetic
+PROD-0470,Premium Corrugated Box,Packaging,Corrugated Box,55030.0,Saha PLC,Rajkot,Gujarat,India,True,4.5,57,295,7,RoHS compliant|GMP certified,2026-03-13T15:52:11.439907,synthetic
+PROD-0471,Premium BOPP Film,Packaging,BOPP Film,208138.0,Jain-Basu,Delhi,Delhi,India,True,3.9,4,332,18,food grade|export quality,2026-03-13T15:52:11.439931,synthetic
+PROD-0472,Premium PET Bottle,Packaging,PET Bottle,11615.0,"Goyal, Roy and Chaudhry",Coimbatore,Tamil Nadu,India,False,4.5,109,390,8,CE certified|RoHS compliant,2026-03-13T15:52:11.439957,synthetic
+PROD-0473,Premium Bubble Wrap,Packaging,Bubble Wrap,24704.0,"Biswas, Kade and Bath",Nashik,Maharashtra,India,True,3.7,18,63,16,food grade|high grade,2026-03-13T15:52:11.439983,synthetic
+PROD-0474,Heavy Duty BOPP Film,Packaging,BOPP Film,66608.0,"Butala, Palan and Nori",Nagpur,Maharashtra,India,False,4.9,18,460,6,organic|export quality,2026-03-13T15:52:11.440010,synthetic
+PROD-0475,Export Grade PET Bottle,Packaging,PET Bottle,8876.0,"Balan, Mahajan and Basu",Delhi,Delhi,India,True,3.4,11,478,5,eco friendly|CE certified,2026-03-13T15:52:11.440037,synthetic
+PROD-0476,Heavy Duty Jute Bag,Packaging,Jute Bag,25508.0,Rama-Sachdeva,Jaipur,Rajasthan,India,False,4.6,18,272,18,eco friendly|RoHS compliant,2026-03-13T15:52:11.440093,synthetic
+PROD-0477,Export Grade BOPP Film,Packaging,BOPP Film,13325.0,Prabhakar-Ahluwalia,Surat,Gujarat,India,True,3.6,46,146,15,heavy duty|custom size,2026-03-13T15:52:11.440121,synthetic
+PROD-0478,Standard PET Bottle,Packaging,PET Bottle,36788.0,Pandey LLC,Nashik,Maharashtra,India,False,4.4,30,122,4,ISO certified|CE certified,2026-03-13T15:52:11.440145,synthetic
+PROD-0479,Standard PET Bottle,Packaging,PET Bottle,21537.0,Nayar-Patla,Kolkata,West Bengal,India,True,3.1,11,191,15,high grade|heavy duty,2026-03-13T15:52:11.440170,synthetic
+PROD-0480,Heavy Duty Bubble Wrap,Packaging,Bubble Wrap,27856.0,"Shanker, Bhalla and Kamdar",Coimbatore,Tamil Nadu,India,True,3.6,23,290,24,eco friendly|CE certified,2026-03-13T15:52:11.440198,synthetic
