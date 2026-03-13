@@ -21,25 +21,25 @@ data analysis (EDA) to uncover meaningful business insights.
 ## 📁 Project Structure
 
 b2b_project/
-│
-├── 📓 notebooks/
-│   └── b2b_marketplace_analysis.ipynb
-│
-├── 📂 data/
-│   ├── b2b_products.csv
-│   └── b2b_products.json
-│
-├── 📊 charts/
-│   ├── chart1_category.png
-│   ├── chart2_price.png
-│   ├── chart3_cities.png
-│   ├── chart4_heatmap.png
-│   ├── chart5_verified_rating.png
-│   ├── chart6_pricebox.png
-│   ├── chart7_experience.png
-│   └── chart8_insights.png
-│
-└── 📝 README.md
+
+ 📓 notebooks/
+   b2b_marketplace_analysis.ipynb
+
+ 📂 data/
+       b2b_products.csv
+       b2b_products.json
+
+ 📊 charts/
+    chart1_category.png
+    chart2_price.png
+    chart3_cities.png
+    chart4_heatmap.png
+    chart5_verified_rating.png
+    chart6_pricebox.png
+    chart7_experience.png
+    chart8_insights.png
+
+ 📝 README.md
 
 
 
@@ -58,25 +58,25 @@ b2b_project/
 
 ## 🕷️ Crawler Architecture
 
-┌─────────────────────────────────────┐
-│         B2B Marketplace Crawler      │
-├─────────────────────────────────────┤
-│  Phase 1: Live Scraping              │
-│  ├── Rotating User-Agents (4 agents) │
-│  ├── Random Delays (2-5 seconds)     │
-│  ├── Retry Logic (3 retries)         │
-│  └── 403/429 Block Detection         │
-│                                      │
-│  Phase 2: Synthetic Fallback         │
-│  ├── Log-Normal Price Distribution   │
-│  ├── Real Indian City Data           │
-│  ├── Faker Library (company names)   │
-│  └── 480 Products × 15 Fields        │
-│                                      │
-│  Output                              │
-│  ├── b2b_products.json               │
-│  └── b2b_products.csv                │
-└─────────────────────────────────────┘
+    
+       B2B Marketplace Crawler      
+
+ Phase 1: Live Scraping              
+           ->Rotating User-Agents (4 agents) 
+           ->Random Delays (2-5 seconds)     
+           ->Retry Logic (3 retries)         
+           ->403/429 Block Detection         
+                                     
+ Phase 2: Synthetic Fallback         
+            ->Log-Normal Price Distribution   
+            ->Real Indian City Data           
+            ->Faker Library (company names)   
+            ->480 Products × 15 Fields        
+                                    
+ Phase 3: Output                              
+           ->b2b_products.json               
+           ->b2b_products.csv                
+
 
 
 
